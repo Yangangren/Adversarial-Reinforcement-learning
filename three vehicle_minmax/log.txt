@@ -1,0 +1,4002 @@
+Logging to C:\Users\YANGAN~1\AppData\Local\Temp\openai-2019-11-12-16-07-37-700218
+********** Iteration 1 ************
+----------------------------
+| adv_policy_vf | 772      |
+| eplenmean     | 30.5     |
+| eprewmean     | -59.5    |
+| pro_policy_vf | 755      |
+| test reward   | -56.8    |
+----------------------------
+********** Iteration 2 ************
+----------------------------
+| adv_policy_vf | 250      |
+| eplenmean     | 39.7     |
+| eprewmean     | -53.2    |
+| pro_policy_vf | 245      |
+| test reward   | -52.9    |
+----------------------------
+********** Iteration 3 ************
+----------------------------
+| adv_policy_vf | 274      |
+| eplenmean     | 43.4     |
+| eprewmean     | -49.1    |
+| pro_policy_vf | 265      |
+| test reward   | -47.8    |
+----------------------------
+********** Iteration 4 ************
+----------------------------
+| adv_policy_vf | 229      |
+| eplenmean     | 35.1     |
+| eprewmean     | -53.8    |
+| pro_policy_vf | 231      |
+| test reward   | -52.9    |
+----------------------------
+********** Iteration 5 ************
+----------------------------
+| adv_policy_vf | 210      |
+| eplenmean     | 39.2     |
+| eprewmean     | -52.1    |
+| pro_policy_vf | 208      |
+| test reward   | -45.5    |
+----------------------------
+********** Iteration 6 ************
+----------------------------
+| adv_policy_vf | 260      |
+| eplenmean     | 41.3     |
+| eprewmean     | -48.9    |
+| pro_policy_vf | 256      |
+| test reward   | -48.7    |
+----------------------------
+********** Iteration 7 ************
+----------------------------
+| adv_policy_vf | 235      |
+| eplenmean     | 39.1     |
+| eprewmean     | -47      |
+| pro_policy_vf | 222      |
+| test reward   | -61.6    |
+----------------------------
+********** Iteration 8 ************
+----------------------------
+| adv_policy_vf | 132      |
+| eplenmean     | 46.6     |
+| eprewmean     | -43.1    |
+| pro_policy_vf | 130      |
+| test reward   | -49.3    |
+----------------------------
+********** Iteration 9 ************
+----------------------------
+| adv_policy_vf | 244      |
+| eplenmean     | 41.9     |
+| eprewmean     | -52      |
+| pro_policy_vf | 241      |
+| test reward   | -57.4    |
+----------------------------
+********** Iteration 10 ************
+----------------------------
+| adv_policy_vf | 111      |
+| eplenmean     | 36.2     |
+| eprewmean     | -57.3    |
+| pro_policy_vf | 102      |
+| test reward   | -47.6    |
+----------------------------
+********** Iteration 11 ************
+----------------------------
+| adv_policy_vf | 159      |
+| eplenmean     | 43.3     |
+| eprewmean     | -52.3    |
+| pro_policy_vf | 164      |
+| test reward   | -37.2    |
+----------------------------
+********** Iteration 12 ************
+----------------------------
+| adv_policy_vf | 113      |
+| eplenmean     | 40.8     |
+| eprewmean     | -49.5    |
+| pro_policy_vf | 103      |
+| test reward   | -43.2    |
+----------------------------
+********** Iteration 13 ************
+----------------------------
+| adv_policy_vf | 179      |
+| eplenmean     | 37.3     |
+| eprewmean     | -47.6    |
+| pro_policy_vf | 173      |
+| test reward   | -49.3    |
+----------------------------
+********** Iteration 14 ************
+----------------------------
+| adv_policy_vf | 167      |
+| eplenmean     | 41.9     |
+| eprewmean     | -41.8    |
+| pro_policy_vf | 165      |
+| test reward   | -38.4    |
+----------------------------
+********** Iteration 15 ************
+----------------------------
+| adv_policy_vf | 126      |
+| eplenmean     | 42.3     |
+| eprewmean     | -40.3    |
+| pro_policy_vf | 129      |
+| test reward   | -53.9    |
+----------------------------
+********** Iteration 16 ************
+----------------------------
+| adv_policy_vf | 121      |
+| eplenmean     | 40.6     |
+| eprewmean     | -46.9    |
+| pro_policy_vf | 137      |
+| test reward   | -42.5    |
+----------------------------
+********** Iteration 17 ************
+----------------------------
+| adv_policy_vf | 105      |
+| eplenmean     | 45.6     |
+| eprewmean     | -43.5    |
+| pro_policy_vf | 109      |
+| test reward   | -52.8    |
+----------------------------
+********** Iteration 18 ************
+----------------------------
+| adv_policy_vf | 71.1     |
+| eplenmean     | 49.6     |
+| eprewmean     | -42.6    |
+| pro_policy_vf | 77.7     |
+| test reward   | -61.7    |
+----------------------------
+********** Iteration 19 ************
+----------------------------
+| adv_policy_vf | 90.2     |
+| eplenmean     | 50.4     |
+| eprewmean     | -37.7    |
+| pro_policy_vf | 91       |
+| test reward   | -55.5    |
+----------------------------
+********** Iteration 20 ************
+----------------------------
+| adv_policy_vf | 109      |
+| eplenmean     | 46.2     |
+| eprewmean     | -42.1    |
+| pro_policy_vf | 112      |
+| test reward   | -74.9    |
+----------------------------
+********** Iteration 21 ************
+----------------------------
+| adv_policy_vf | 148      |
+| eplenmean     | 47.2     |
+| eprewmean     | -48.1    |
+| pro_policy_vf | 144      |
+| test reward   | -69.9    |
+----------------------------
+********** Iteration 22 ************
+----------------------------
+| adv_policy_vf | 132      |
+| eplenmean     | 44.5     |
+| eprewmean     | -53.8    |
+| pro_policy_vf | 162      |
+| test reward   | -75.3    |
+----------------------------
+********** Iteration 23 ************
+----------------------------
+| adv_policy_vf | 37.8     |
+| eplenmean     | 40.4     |
+| eprewmean     | -63.9    |
+| pro_policy_vf | 40.2     |
+| test reward   | -77.4    |
+----------------------------
+********** Iteration 24 ************
+----------------------------
+| adv_policy_vf | 43       |
+| eplenmean     | 40.3     |
+| eprewmean     | -72.5    |
+| pro_policy_vf | 40.2     |
+| test reward   | -73      |
+----------------------------
+********** Iteration 25 ************
+----------------------------
+| adv_policy_vf | 43.2     |
+| eplenmean     | 38.9     |
+| eprewmean     | -72.1    |
+| pro_policy_vf | 52.2     |
+| test reward   | -65.6    |
+----------------------------
+********** Iteration 26 ************
+----------------------------
+| adv_policy_vf | 116      |
+| eplenmean     | 34.7     |
+| eprewmean     | -63.8    |
+| pro_policy_vf | 132      |
+| test reward   | -78.9    |
+----------------------------
+********** Iteration 27 ************
+----------------------------
+| adv_policy_vf | 60.4     |
+| eplenmean     | 35       |
+| eprewmean     | -68.2    |
+| pro_policy_vf | 66.4     |
+| test reward   | -73.3    |
+----------------------------
+********** Iteration 28 ************
+----------------------------
+| adv_policy_vf | 67.8     |
+| eplenmean     | 38.5     |
+| eprewmean     | -75      |
+| pro_policy_vf | 70.4     |
+| test reward   | -78.2    |
+----------------------------
+********** Iteration 29 ************
+----------------------------
+| adv_policy_vf | 11.5     |
+| eplenmean     | 38.4     |
+| eprewmean     | -78.5    |
+| pro_policy_vf | 9.9      |
+| test reward   | -77.8    |
+----------------------------
+********** Iteration 30 ************
+----------------------------
+| adv_policy_vf | 67       |
+| eplenmean     | 36.3     |
+| eprewmean     | -77.6    |
+| pro_policy_vf | 69       |
+| test reward   | -78.1    |
+----------------------------
+********** Iteration 31 ************
+----------------------------
+| adv_policy_vf | 56.7     |
+| eplenmean     | 38       |
+| eprewmean     | -75.3    |
+| pro_policy_vf | 60.2     |
+| test reward   | -77.1    |
+----------------------------
+********** Iteration 32 ************
+----------------------------
+| adv_policy_vf | 77.4     |
+| eplenmean     | 40.3     |
+| eprewmean     | -73.8    |
+| pro_policy_vf | 91.4     |
+| test reward   | -79.6    |
+----------------------------
+********** Iteration 33 ************
+----------------------------
+| adv_policy_vf | 62.7     |
+| eplenmean     | 39.2     |
+| eprewmean     | -70.1    |
+| pro_policy_vf | 65.8     |
+| test reward   | -78.1    |
+----------------------------
+********** Iteration 34 ************
+----------------------------
+| adv_policy_vf | 80.6     |
+| eplenmean     | 40.9     |
+| eprewmean     | -63.6    |
+| pro_policy_vf | 88.3     |
+| test reward   | -70.5    |
+----------------------------
+********** Iteration 35 ************
+----------------------------
+| adv_policy_vf | 91.9     |
+| eplenmean     | 39.7     |
+| eprewmean     | -63.7    |
+| pro_policy_vf | 95.7     |
+| test reward   | -75.1    |
+----------------------------
+********** Iteration 36 ************
+----------------------------
+| adv_policy_vf | 30.5     |
+| eplenmean     | 38.1     |
+| eprewmean     | -72.8    |
+| pro_policy_vf | 31.9     |
+| test reward   | -68.3    |
+----------------------------
+********** Iteration 37 ************
+----------------------------
+| adv_policy_vf | 55.9     |
+| eplenmean     | 36.3     |
+| eprewmean     | -70      |
+| pro_policy_vf | 55.6     |
+| test reward   | -62.8    |
+----------------------------
+********** Iteration 38 ************
+----------------------------
+| adv_policy_vf | 71.4     |
+| eplenmean     | 35.5     |
+| eprewmean     | -66.9    |
+| pro_policy_vf | 81.2     |
+| test reward   | -64.2    |
+----------------------------
+********** Iteration 39 ************
+----------------------------
+| adv_policy_vf | 96.9     |
+| eplenmean     | 34.6     |
+| eprewmean     | -61.5    |
+| pro_policy_vf | 95.5     |
+| test reward   | -56.4    |
+----------------------------
+********** Iteration 40 ************
+----------------------------
+| adv_policy_vf | 111      |
+| eplenmean     | 36.5     |
+| eprewmean     | -54.9    |
+| pro_policy_vf | 111      |
+| test reward   | -54.4    |
+----------------------------
+********** Iteration 41 ************
+----------------------------
+| adv_policy_vf | 113      |
+| eplenmean     | 39       |
+| eprewmean     | -47.5    |
+| pro_policy_vf | 133      |
+| test reward   | -45.2    |
+----------------------------
+********** Iteration 42 ************
+----------------------------
+| adv_policy_vf | 144      |
+| eplenmean     | 41.6     |
+| eprewmean     | -39      |
+| pro_policy_vf | 154      |
+| test reward   | -25.4    |
+----------------------------
+********** Iteration 43 ************
+----------------------------
+| adv_policy_vf | 116      |
+| eplenmean     | 42.7     |
+| eprewmean     | -39.1    |
+| pro_policy_vf | 131      |
+| test reward   | -33.5    |
+----------------------------
+********** Iteration 44 ************
+----------------------------
+| adv_policy_vf | 116      |
+| eplenmean     | 37.2     |
+| eprewmean     | -50.5    |
+| pro_policy_vf | 119      |
+| test reward   | -55      |
+----------------------------
+********** Iteration 45 ************
+----------------------------
+| adv_policy_vf | 118      |
+| eplenmean     | 38.2     |
+| eprewmean     | -56.5    |
+| pro_policy_vf | 140      |
+| test reward   | -65.6    |
+----------------------------
+********** Iteration 46 ************
+----------------------------
+| adv_policy_vf | 75.9     |
+| eplenmean     | 36.9     |
+| eprewmean     | -60.3    |
+| pro_policy_vf | 72.1     |
+| test reward   | -53.8    |
+----------------------------
+********** Iteration 47 ************
+----------------------------
+| adv_policy_vf | 62.8     |
+| eplenmean     | 37.8     |
+| eprewmean     | -63.8    |
+| pro_policy_vf | 67.2     |
+| test reward   | -61.3    |
+----------------------------
+********** Iteration 48 ************
+----------------------------
+| adv_policy_vf | 49.9     |
+| eplenmean     | 39.5     |
+| eprewmean     | -65.6    |
+| pro_policy_vf | 54.9     |
+| test reward   | -50.7    |
+----------------------------
+********** Iteration 49 ************
+----------------------------
+| adv_policy_vf | 108      |
+| eplenmean     | 39.9     |
+| eprewmean     | -56.3    |
+| pro_policy_vf | 113      |
+| test reward   | -61      |
+----------------------------
+********** Iteration 50 ************
+----------------------------
+| adv_policy_vf | 121      |
+| eplenmean     | 41       |
+| eprewmean     | -39.5    |
+| pro_policy_vf | 135      |
+| test reward   | -53.1    |
+----------------------------
+********** Iteration 51 ************
+----------------------------
+| adv_policy_vf | 72.5     |
+| eplenmean     | 46.3     |
+| eprewmean     | -39.7    |
+| pro_policy_vf | 89.8     |
+| test reward   | -47.3    |
+----------------------------
+********** Iteration 52 ************
+----------------------------
+| adv_policy_vf | 104      |
+| eplenmean     | 46.3     |
+| eprewmean     | -41.8    |
+| pro_policy_vf | 110      |
+| test reward   | -62.3    |
+----------------------------
+********** Iteration 53 ************
+----------------------------
+| adv_policy_vf | 86.4     |
+| eplenmean     | 43.6     |
+| eprewmean     | -50      |
+| pro_policy_vf | 84.8     |
+| test reward   | -55.5    |
+----------------------------
+********** Iteration 54 ************
+----------------------------
+| adv_policy_vf | 93.5     |
+| eplenmean     | 44.5     |
+| eprewmean     | -53.6    |
+| pro_policy_vf | 101      |
+| test reward   | -39.6    |
+----------------------------
+********** Iteration 55 ************
+----------------------------
+| adv_policy_vf | 98       |
+| eplenmean     | 48.4     |
+| eprewmean     | -52.1    |
+| pro_policy_vf | 100      |
+| test reward   | -37.3    |
+----------------------------
+********** Iteration 56 ************
+----------------------------
+| adv_policy_vf | 72.8     |
+| eplenmean     | 49.4     |
+| eprewmean     | -46      |
+| pro_policy_vf | 79.7     |
+| test reward   | -41.4    |
+----------------------------
+********** Iteration 57 ************
+----------------------------
+| adv_policy_vf | 97.2     |
+| eplenmean     | 50       |
+| eprewmean     | -43.7    |
+| pro_policy_vf | 95.4     |
+| test reward   | -32.9    |
+----------------------------
+********** Iteration 58 ************
+----------------------------
+| adv_policy_vf | 66.8     |
+| eplenmean     | 54.4     |
+| eprewmean     | -33.7    |
+| pro_policy_vf | 67.8     |
+| test reward   | -37.8    |
+----------------------------
+********** Iteration 59 ************
+----------------------------
+| adv_policy_vf | 60       |
+| eplenmean     | 58.6     |
+| eprewmean     | -26.2    |
+| pro_policy_vf | 60.2     |
+| test reward   | -20.7    |
+----------------------------
+********** Iteration 60 ************
+----------------------------
+| adv_policy_vf | 78       |
+| eplenmean     | 57       |
+| eprewmean     | -20.4    |
+| pro_policy_vf | 106      |
+| test reward   | -20.6    |
+----------------------------
+********** Iteration 61 ************
+----------------------------
+| adv_policy_vf | 47.5     |
+| eplenmean     | 58       |
+| eprewmean     | -22      |
+| pro_policy_vf | 52.2     |
+| test reward   | -37.3    |
+----------------------------
+********** Iteration 62 ************
+----------------------------
+| adv_policy_vf | 58.2     |
+| eplenmean     | 57.1     |
+| eprewmean     | -22.4    |
+| pro_policy_vf | 69.1     |
+| test reward   | -11.8    |
+----------------------------
+********** Iteration 63 ************
+----------------------------
+| adv_policy_vf | 67.9     |
+| eplenmean     | 58.9     |
+| eprewmean     | -15.8    |
+| pro_policy_vf | 77.4     |
+| test reward   | -9.76    |
+----------------------------
+********** Iteration 64 ************
+----------------------------
+| adv_policy_vf | 108      |
+| eplenmean     | 56.9     |
+| eprewmean     | -9.79    |
+| pro_policy_vf | 115      |
+| test reward   | -21.8    |
+----------------------------
+********** Iteration 65 ************
+----------------------------
+| adv_policy_vf | 56.9     |
+| eplenmean     | 55.7     |
+| eprewmean     | -15.7    |
+| pro_policy_vf | 78.7     |
+| test reward   | -12.6    |
+----------------------------
+********** Iteration 66 ************
+----------------------------
+| adv_policy_vf | 94.6     |
+| eplenmean     | 60.6     |
+| eprewmean     | -7.63    |
+| pro_policy_vf | 89.5     |
+| test reward   | -6.8     |
+----------------------------
+********** Iteration 67 ************
+----------------------------
+| adv_policy_vf | 34.5     |
+| eplenmean     | 63.3     |
+| eprewmean     | -7.06    |
+| pro_policy_vf | 40.3     |
+| test reward   | -20.6    |
+----------------------------
+********** Iteration 68 ************
+----------------------------
+| adv_policy_vf | 48.4     |
+| eplenmean     | 65.4     |
+| eprewmean     | 2.13     |
+| pro_policy_vf | 51.4     |
+| test reward   | -4.58    |
+----------------------------
+********** Iteration 69 ************
+----------------------------
+| adv_policy_vf | 28.9     |
+| eplenmean     | 60.6     |
+| eprewmean     | 0.9      |
+| pro_policy_vf | 30.2     |
+| test reward   | -5.64    |
+----------------------------
+********** Iteration 70 ************
+----------------------------
+| adv_policy_vf | 45.1     |
+| eplenmean     | 57.8     |
+| eprewmean     | 1.61     |
+| pro_policy_vf | 60.3     |
+| test reward   | -5.16    |
+----------------------------
+********** Iteration 71 ************
+----------------------------
+| adv_policy_vf | 20.9     |
+| eplenmean     | 58       |
+| eprewmean     | 3.72     |
+| pro_policy_vf | 22.4     |
+| test reward   | -11      |
+----------------------------
+********** Iteration 72 ************
+----------------------------
+| adv_policy_vf | 41.2     |
+| eplenmean     | 60       |
+| eprewmean     | 6.24     |
+| pro_policy_vf | 45.8     |
+| test reward   | 9        |
+----------------------------
+********** Iteration 73 ************
+----------------------------
+| adv_policy_vf | 58.6     |
+| eplenmean     | 59.4     |
+| eprewmean     | 9.03     |
+| pro_policy_vf | 61.4     |
+| test reward   | -6.12    |
+----------------------------
+********** Iteration 74 ************
+----------------------------
+| adv_policy_vf | 25       |
+| eplenmean     | 61.1     |
+| eprewmean     | 6.87     |
+| pro_policy_vf | 22.2     |
+| test reward   | -1.78    |
+----------------------------
+********** Iteration 75 ************
+----------------------------
+| adv_policy_vf | 33.8     |
+| eplenmean     | 61.2     |
+| eprewmean     | 2.96     |
+| pro_policy_vf | 27.5     |
+| test reward   | 0.4      |
+----------------------------
+********** Iteration 76 ************
+----------------------------
+| adv_policy_vf | 23.1     |
+| eplenmean     | 62.1     |
+| eprewmean     | -0.0636  |
+| pro_policy_vf | 20.9     |
+| test reward   | 4.76     |
+----------------------------
+********** Iteration 77 ************
+----------------------------
+| adv_policy_vf | 31       |
+| eplenmean     | 62.3     |
+| eprewmean     | 5.55     |
+| pro_policy_vf | 33.2     |
+| test reward   | 6.64     |
+----------------------------
+********** Iteration 78 ************
+----------------------------
+| adv_policy_vf | 14.1     |
+| eplenmean     | 64.2     |
+| eprewmean     | 13.4     |
+| pro_policy_vf | 15.8     |
+| test reward   | 5.1      |
+----------------------------
+********** Iteration 79 ************
+----------------------------
+| adv_policy_vf | 11.7     |
+| eplenmean     | 65       |
+| eprewmean     | 17.3     |
+| pro_policy_vf | 14.4     |
+| test reward   | 10.1     |
+----------------------------
+********** Iteration 80 ************
+----------------------------
+| adv_policy_vf | 13.1     |
+| eplenmean     | 64.5     |
+| eprewmean     | 13.4     |
+| pro_policy_vf | 11.4     |
+| test reward   | 2.1      |
+----------------------------
+********** Iteration 81 ************
+----------------------------
+| adv_policy_vf | 25.4     |
+| eplenmean     | 63.9     |
+| eprewmean     | 12.9     |
+| pro_policy_vf | 32.6     |
+| test reward   | 9.82     |
+----------------------------
+********** Iteration 82 ************
+----------------------------
+| adv_policy_vf | 18.6     |
+| eplenmean     | 64.4     |
+| eprewmean     | 14.1     |
+| pro_policy_vf | 15.9     |
+| test reward   | 14.3     |
+----------------------------
+********** Iteration 83 ************
+----------------------------
+| adv_policy_vf | 10.1     |
+| eplenmean     | 65.2     |
+| eprewmean     | 20       |
+| pro_policy_vf | 10.4     |
+| test reward   | 6.9      |
+----------------------------
+********** Iteration 84 ************
+----------------------------
+| adv_policy_vf | 7.86     |
+| eplenmean     | 65.7     |
+| eprewmean     | 20.8     |
+| pro_policy_vf | 7.23     |
+| test reward   | 12.3     |
+----------------------------
+********** Iteration 85 ************
+----------------------------
+| adv_policy_vf | 44.8     |
+| eplenmean     | 63.9     |
+| eprewmean     | 19.9     |
+| pro_policy_vf | 49.5     |
+| test reward   | 9.96     |
+----------------------------
+********** Iteration 86 ************
+----------------------------
+| adv_policy_vf | 10.5     |
+| eplenmean     | 65       |
+| eprewmean     | 17.5     |
+| pro_policy_vf | 8.94     |
+| test reward   | 15.9     |
+----------------------------
+********** Iteration 87 ************
+----------------------------
+| adv_policy_vf | 17       |
+| eplenmean     | 64.5     |
+| eprewmean     | 19.6     |
+| pro_policy_vf | 16.2     |
+| test reward   | 15.1     |
+----------------------------
+********** Iteration 88 ************
+----------------------------
+| adv_policy_vf | 7.58     |
+| eplenmean     | 65.7     |
+| eprewmean     | 24.9     |
+| pro_policy_vf | 5.88     |
+| test reward   | 6.52     |
+----------------------------
+********** Iteration 89 ************
+----------------------------
+| adv_policy_vf | 14.7     |
+| eplenmean     | 65.3     |
+| eprewmean     | 26.7     |
+| pro_policy_vf | 12.3     |
+| test reward   | 15       |
+----------------------------
+********** Iteration 90 ************
+----------------------------
+| adv_policy_vf | 7.15     |
+| eplenmean     | 65.6     |
+| eprewmean     | 29       |
+| pro_policy_vf | 6.82     |
+| test reward   | 9.24     |
+----------------------------
+********** Iteration 91 ************
+----------------------------
+| adv_policy_vf | 31.2     |
+| eplenmean     | 64.2     |
+| eprewmean     | 26.3     |
+| pro_policy_vf | 29       |
+| test reward   | 14.5     |
+----------------------------
+********** Iteration 92 ************
+----------------------------
+| adv_policy_vf | 18.2     |
+| eplenmean     | 61.8     |
+| eprewmean     | 20.2     |
+| pro_policy_vf | 14.3     |
+| test reward   | 12.6     |
+----------------------------
+********** Iteration 93 ************
+----------------------------
+| adv_policy_vf | 10.3     |
+| eplenmean     | 61.4     |
+| eprewmean     | 19.1     |
+| pro_policy_vf | 9.86     |
+| test reward   | 12       |
+----------------------------
+********** Iteration 94 ************
+----------------------------
+| adv_policy_vf | 10.2     |
+| eplenmean     | 61.7     |
+| eprewmean     | 21.9     |
+| pro_policy_vf | 9.62     |
+| test reward   | 14.5     |
+----------------------------
+********** Iteration 95 ************
+----------------------------
+| adv_policy_vf | 24.8     |
+| eplenmean     | 61.3     |
+| eprewmean     | 29.3     |
+| pro_policy_vf | 22.1     |
+| test reward   | 16.9     |
+----------------------------
+********** Iteration 96 ************
+----------------------------
+| adv_policy_vf | 12.7     |
+| eplenmean     | 61.6     |
+| eprewmean     | 31.7     |
+| pro_policy_vf | 10.5     |
+| test reward   | 25.7     |
+----------------------------
+********** Iteration 97 ************
+----------------------------
+| adv_policy_vf | 12.5     |
+| eplenmean     | 61.3     |
+| eprewmean     | 31.7     |
+| pro_policy_vf | 16.6     |
+| test reward   | 18.4     |
+----------------------------
+********** Iteration 98 ************
+----------------------------
+| adv_policy_vf | 24.9     |
+| eplenmean     | 61.4     |
+| eprewmean     | 32.6     |
+| pro_policy_vf | 30       |
+| test reward   | 22.4     |
+----------------------------
+********** Iteration 99 ************
+----------------------------
+| adv_policy_vf | 10.6     |
+| eplenmean     | 60.6     |
+| eprewmean     | 33       |
+| pro_policy_vf | 8.51     |
+| test reward   | 16.7     |
+----------------------------
+********** Iteration 100 ************
+----------------------------
+| adv_policy_vf | 6.22     |
+| eplenmean     | 59.9     |
+| eprewmean     | 32       |
+| pro_policy_vf | 7        |
+| test reward   | 25.9     |
+----------------------------
+********** Iteration 101 ************
+----------------------------
+| adv_policy_vf | 4.91     |
+| eplenmean     | 61.6     |
+| eprewmean     | 33.3     |
+| pro_policy_vf | 4.9      |
+| test reward   | 23.1     |
+----------------------------
+********** Iteration 102 ************
+----------------------------
+| adv_policy_vf | 14.2     |
+| eplenmean     | 61.3     |
+| eprewmean     | 33.7     |
+| pro_policy_vf | 9.77     |
+| test reward   | 13.9     |
+----------------------------
+********** Iteration 103 ************
+----------------------------
+| adv_policy_vf | 43.5     |
+| eplenmean     | 60.1     |
+| eprewmean     | 26.2     |
+| pro_policy_vf | 30.2     |
+| test reward   | 16.3     |
+----------------------------
+********** Iteration 104 ************
+----------------------------
+| adv_policy_vf | 79.7     |
+| eplenmean     | 55.9     |
+| eprewmean     | 13.9     |
+| pro_policy_vf | 80.2     |
+| test reward   | 26.1     |
+----------------------------
+********** Iteration 105 ************
+----------------------------
+| adv_policy_vf | 23.5     |
+| eplenmean     | 57.3     |
+| eprewmean     | 14.7     |
+| pro_policy_vf | 17.8     |
+| test reward   | 21.4     |
+----------------------------
+********** Iteration 106 ************
+----------------------------
+| adv_policy_vf | 23.1     |
+| eplenmean     | 57.9     |
+| eprewmean     | 21.1     |
+| pro_policy_vf | 23.9     |
+| test reward   | 25.5     |
+----------------------------
+********** Iteration 107 ************
+----------------------------
+| adv_policy_vf | 11.9     |
+| eplenmean     | 59.9     |
+| eprewmean     | 33.8     |
+| pro_policy_vf | 10.9     |
+| test reward   | 31.4     |
+----------------------------
+********** Iteration 108 ************
+----------------------------
+| adv_policy_vf | 10.8     |
+| eplenmean     | 59.4     |
+| eprewmean     | 31.1     |
+| pro_policy_vf | 9.92     |
+| test reward   | 28.1     |
+----------------------------
+********** Iteration 109 ************
+----------------------------
+| adv_policy_vf | 5.97     |
+| eplenmean     | 60.4     |
+| eprewmean     | 33.7     |
+| pro_policy_vf | 5.19     |
+| test reward   | 25       |
+----------------------------
+********** Iteration 110 ************
+----------------------------
+| adv_policy_vf | 7.43     |
+| eplenmean     | 61.3     |
+| eprewmean     | 33.2     |
+| pro_policy_vf | 5.85     |
+| test reward   | 24.3     |
+----------------------------
+********** Iteration 111 ************
+----------------------------
+| adv_policy_vf | 10.1     |
+| eplenmean     | 63.8     |
+| eprewmean     | 34.7     |
+| pro_policy_vf | 9.46     |
+| test reward   | 19.5     |
+----------------------------
+********** Iteration 112 ************
+----------------------------
+| adv_policy_vf | 5.36     |
+| eplenmean     | 64.4     |
+| eprewmean     | 34.1     |
+| pro_policy_vf | 5.56     |
+| test reward   | 25.1     |
+----------------------------
+********** Iteration 113 ************
+----------------------------
+| adv_policy_vf | 5.46     |
+| eplenmean     | 65.8     |
+| eprewmean     | 34.8     |
+| pro_policy_vf | 5.12     |
+| test reward   | 25.5     |
+----------------------------
+********** Iteration 114 ************
+----------------------------
+| adv_policy_vf | 5.08     |
+| eplenmean     | 65.3     |
+| eprewmean     | 36.6     |
+| pro_policy_vf | 5.19     |
+| test reward   | 31       |
+----------------------------
+********** Iteration 115 ************
+----------------------------
+| adv_policy_vf | 4.55     |
+| eplenmean     | 63.6     |
+| eprewmean     | 37.4     |
+| pro_policy_vf | 4.7      |
+| test reward   | 33.1     |
+----------------------------
+********** Iteration 116 ************
+----------------------------
+| adv_policy_vf | 4.43     |
+| eplenmean     | 61.5     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 4.45     |
+| test reward   | 20.6     |
+----------------------------
+********** Iteration 117 ************
+----------------------------
+| adv_policy_vf | 30.9     |
+| eplenmean     | 58.7     |
+| eprewmean     | 37.9     |
+| pro_policy_vf | 18.6     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 118 ************
+----------------------------
+| adv_policy_vf | 4.74     |
+| eplenmean     | 59.1     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 4.48     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 119 ************
+----------------------------
+| adv_policy_vf | 4.8      |
+| eplenmean     | 59.4     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 4.73     |
+| test reward   | 30.9     |
+----------------------------
+********** Iteration 120 ************
+----------------------------
+| adv_policy_vf | 17.5     |
+| eplenmean     | 60.2     |
+| eprewmean     | 37.1     |
+| pro_policy_vf | 21.4     |
+| test reward   | 25.6     |
+----------------------------
+********** Iteration 121 ************
+----------------------------
+| adv_policy_vf | 6.57     |
+| eplenmean     | 59.6     |
+| eprewmean     | 37.6     |
+| pro_policy_vf | 6.08     |
+| test reward   | 30.7     |
+----------------------------
+********** Iteration 122 ************
+----------------------------
+| adv_policy_vf | 3.98     |
+| eplenmean     | 59.5     |
+| eprewmean     | 37.5     |
+| pro_policy_vf | 3.94     |
+| test reward   | 28.9     |
+----------------------------
+********** Iteration 123 ************
+----------------------------
+| adv_policy_vf | 3.82     |
+| eplenmean     | 60.2     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 4.11     |
+| test reward   | 31.1     |
+----------------------------
+********** Iteration 124 ************
+----------------------------
+| adv_policy_vf | 3.99     |
+| eplenmean     | 60.2     |
+| eprewmean     | 39.6     |
+| pro_policy_vf | 4.27     |
+| test reward   | 29.1     |
+----------------------------
+********** Iteration 125 ************
+----------------------------
+| adv_policy_vf | 28.3     |
+| eplenmean     | 57.5     |
+| eprewmean     | 35.8     |
+| pro_policy_vf | 18.8     |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 126 ************
+----------------------------
+| adv_policy_vf | 17.4     |
+| eplenmean     | 56.1     |
+| eprewmean     | 33.7     |
+| pro_policy_vf | 20       |
+| test reward   | 30.1     |
+----------------------------
+********** Iteration 127 ************
+----------------------------
+| adv_policy_vf | 13.4     |
+| eplenmean     | 56.7     |
+| eprewmean     | 33.3     |
+| pro_policy_vf | 14.9     |
+| test reward   | 29.9     |
+----------------------------
+********** Iteration 128 ************
+----------------------------
+| adv_policy_vf | 5.42     |
+| eplenmean     | 59       |
+| eprewmean     | 37.1     |
+| pro_policy_vf | 4.87     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 129 ************
+----------------------------
+| adv_policy_vf | 15.6     |
+| eplenmean     | 58.2     |
+| eprewmean     | 37.6     |
+| pro_policy_vf | 10.1     |
+| test reward   | 30.3     |
+----------------------------
+********** Iteration 130 ************
+----------------------------
+| adv_policy_vf | 7.02     |
+| eplenmean     | 57.2     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 5.84     |
+| test reward   | 28.1     |
+----------------------------
+********** Iteration 131 ************
+----------------------------
+| adv_policy_vf | 21.4     |
+| eplenmean     | 56.7     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 15.3     |
+| test reward   | 28.7     |
+----------------------------
+********** Iteration 132 ************
+----------------------------
+| adv_policy_vf | 21.9     |
+| eplenmean     | 56.1     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 22.1     |
+| test reward   | 16.8     |
+----------------------------
+********** Iteration 133 ************
+----------------------------
+| adv_policy_vf | 72.7     |
+| eplenmean     | 53.9     |
+| eprewmean     | 31.9     |
+| pro_policy_vf | 54.8     |
+| test reward   | -16.7    |
+----------------------------
+********** Iteration 134 ************
+----------------------------
+| adv_policy_vf | 107      |
+| eplenmean     | 52.6     |
+| eprewmean     | 21.3     |
+| pro_policy_vf | 111      |
+| test reward   | 34.3     |
+----------------------------
+********** Iteration 135 ************
+----------------------------
+| adv_policy_vf | 43.9     |
+| eplenmean     | 54.1     |
+| eprewmean     | 17.4     |
+| pro_policy_vf | 38.7     |
+| test reward   | 28.1     |
+----------------------------
+********** Iteration 136 ************
+----------------------------
+| adv_policy_vf | 10.5     |
+| eplenmean     | 56.2     |
+| eprewmean     | 29.2     |
+| pro_policy_vf | 7.73     |
+| test reward   | 24.5     |
+----------------------------
+********** Iteration 137 ************
+----------------------------
+| adv_policy_vf | 15.8     |
+| eplenmean     | 57.3     |
+| eprewmean     | 35.3     |
+| pro_policy_vf | 16.3     |
+| test reward   | 30.3     |
+----------------------------
+********** Iteration 138 ************
+----------------------------
+| adv_policy_vf | 4.87     |
+| eplenmean     | 57.6     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 4.54     |
+| test reward   | 28.7     |
+----------------------------
+********** Iteration 139 ************
+----------------------------
+| adv_policy_vf | 19       |
+| eplenmean     | 57.2     |
+| eprewmean     | 35.9     |
+| pro_policy_vf | 14.2     |
+| test reward   | 26       |
+----------------------------
+********** Iteration 140 ************
+----------------------------
+| adv_policy_vf | 25.2     |
+| eplenmean     | 57.4     |
+| eprewmean     | 34.5     |
+| pro_policy_vf | 21.7     |
+| test reward   | 26.7     |
+----------------------------
+********** Iteration 141 ************
+----------------------------
+| adv_policy_vf | 40.7     |
+| eplenmean     | 57.5     |
+| eprewmean     | 34.1     |
+| pro_policy_vf | 39.5     |
+| test reward   | 29.5     |
+----------------------------
+********** Iteration 142 ************
+----------------------------
+| adv_policy_vf | 9.36     |
+| eplenmean     | 57.2     |
+| eprewmean     | 35.6     |
+| pro_policy_vf | 7.06     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 143 ************
+----------------------------
+| adv_policy_vf | 5.09     |
+| eplenmean     | 57.8     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 5.25     |
+| test reward   | 26.2     |
+----------------------------
+********** Iteration 144 ************
+----------------------------
+| adv_policy_vf | 10.1     |
+| eplenmean     | 58.8     |
+| eprewmean     | 37.9     |
+| pro_policy_vf | 10       |
+| test reward   | 27.3     |
+----------------------------
+********** Iteration 145 ************
+----------------------------
+| adv_policy_vf | 4.8      |
+| eplenmean     | 60.2     |
+| eprewmean     | 36.6     |
+| pro_policy_vf | 5.17     |
+| test reward   | 31.4     |
+----------------------------
+********** Iteration 146 ************
+----------------------------
+| adv_policy_vf | 4.52     |
+| eplenmean     | 61.3     |
+| eprewmean     | 35.7     |
+| pro_policy_vf | 4.72     |
+| test reward   | 26       |
+----------------------------
+********** Iteration 147 ************
+----------------------------
+| adv_policy_vf | 50.8     |
+| eplenmean     | 59.5     |
+| eprewmean     | 33.3     |
+| pro_policy_vf | 58.4     |
+| test reward   | 32       |
+----------------------------
+********** Iteration 148 ************
+----------------------------
+| adv_policy_vf | 11.8     |
+| eplenmean     | 57.9     |
+| eprewmean     | 32.3     |
+| pro_policy_vf | 11       |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 149 ************
+----------------------------
+| adv_policy_vf | 23.7     |
+| eplenmean     | 55.2     |
+| eprewmean     | 35.8     |
+| pro_policy_vf | 23.8     |
+| test reward   | 24.9     |
+----------------------------
+********** Iteration 150 ************
+----------------------------
+| adv_policy_vf | 12.3     |
+| eplenmean     | 55.5     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 12.6     |
+| test reward   | 22.1     |
+----------------------------
+********** Iteration 151 ************
+----------------------------
+| adv_policy_vf | 5.67     |
+| eplenmean     | 55.3     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 5.43     |
+| test reward   | 23.6     |
+----------------------------
+********** Iteration 152 ************
+----------------------------
+| adv_policy_vf | 43.8     |
+| eplenmean     | 54.9     |
+| eprewmean     | 39.1     |
+| pro_policy_vf | 44.9     |
+| test reward   | -0.82    |
+----------------------------
+********** Iteration 153 ************
+----------------------------
+| adv_policy_vf | 97.1     |
+| eplenmean     | 53       |
+| eprewmean     | 28.3     |
+| pro_policy_vf | 96.7     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 154 ************
+----------------------------
+| adv_policy_vf | 67.9     |
+| eplenmean     | 51.6     |
+| eprewmean     | 22       |
+| pro_policy_vf | 65.9     |
+| test reward   | 30.3     |
+----------------------------
+********** Iteration 155 ************
+----------------------------
+| adv_policy_vf | 6.54     |
+| eplenmean     | 53.2     |
+| eprewmean     | 23.3     |
+| pro_policy_vf | 5.87     |
+| test reward   | 31       |
+----------------------------
+********** Iteration 156 ************
+----------------------------
+| adv_policy_vf | 19.9     |
+| eplenmean     | 55.8     |
+| eprewmean     | 32.4     |
+| pro_policy_vf | 18       |
+| test reward   | 29.8     |
+----------------------------
+********** Iteration 157 ************
+----------------------------
+| adv_policy_vf | 5.21     |
+| eplenmean     | 56.5     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 5.46     |
+| test reward   | 31.6     |
+----------------------------
+********** Iteration 158 ************
+----------------------------
+| adv_policy_vf | 4.19     |
+| eplenmean     | 57.4     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 4.42     |
+| test reward   | 26.8     |
+----------------------------
+********** Iteration 159 ************
+----------------------------
+| adv_policy_vf | 4.54     |
+| eplenmean     | 56.7     |
+| eprewmean     | 41.1     |
+| pro_policy_vf | 4.72     |
+| test reward   | 26.1     |
+----------------------------
+********** Iteration 160 ************
+----------------------------
+| adv_policy_vf | 5.07     |
+| eplenmean     | 58.9     |
+| eprewmean     | 38.9     |
+| pro_policy_vf | 4.7      |
+| test reward   | 18.2     |
+----------------------------
+********** Iteration 161 ************
+----------------------------
+| adv_policy_vf | 16.8     |
+| eplenmean     | 58.4     |
+| eprewmean     | 32.5     |
+| pro_policy_vf | 14       |
+| test reward   | 8.06     |
+----------------------------
+********** Iteration 162 ************
+----------------------------
+| adv_policy_vf | 16.3     |
+| eplenmean     | 59.4     |
+| eprewmean     | 27.6     |
+| pro_policy_vf | 14.1     |
+| test reward   | 23.2     |
+----------------------------
+********** Iteration 163 ************
+----------------------------
+| adv_policy_vf | 17.3     |
+| eplenmean     | 59.2     |
+| eprewmean     | 25       |
+| pro_policy_vf | 17.2     |
+| test reward   | 11.3     |
+----------------------------
+********** Iteration 164 ************
+----------------------------
+| adv_policy_vf | 62.9     |
+| eplenmean     | 57.2     |
+| eprewmean     | 23.2     |
+| pro_policy_vf | 61.5     |
+| test reward   | 18.3     |
+----------------------------
+********** Iteration 165 ************
+----------------------------
+| adv_policy_vf | 33.5     |
+| eplenmean     | 56       |
+| eprewmean     | 24.4     |
+| pro_policy_vf | 33.2     |
+| test reward   | 22       |
+----------------------------
+********** Iteration 166 ************
+----------------------------
+| adv_policy_vf | 37.4     |
+| eplenmean     | 55.9     |
+| eprewmean     | 27.7     |
+| pro_policy_vf | 29.8     |
+| test reward   | 30.2     |
+----------------------------
+********** Iteration 167 ************
+----------------------------
+| adv_policy_vf | 8.2      |
+| eplenmean     | 57.2     |
+| eprewmean     | 33.8     |
+| pro_policy_vf | 5.66     |
+| test reward   | 12.5     |
+----------------------------
+********** Iteration 168 ************
+----------------------------
+| adv_policy_vf | 23.6     |
+| eplenmean     | 56.3     |
+| eprewmean     | 37.5     |
+| pro_policy_vf | 22       |
+| test reward   | 31.8     |
+----------------------------
+********** Iteration 169 ************
+----------------------------
+| adv_policy_vf | 37.3     |
+| eplenmean     | 56.5     |
+| eprewmean     | 36       |
+| pro_policy_vf | 28.6     |
+| test reward   | 28.6     |
+----------------------------
+********** Iteration 170 ************
+----------------------------
+| adv_policy_vf | 7.27     |
+| eplenmean     | 57.5     |
+| eprewmean     | 35.1     |
+| pro_policy_vf | 5.32     |
+| test reward   | 29.6     |
+----------------------------
+********** Iteration 171 ************
+----------------------------
+| adv_policy_vf | 4.05     |
+| eplenmean     | 59.6     |
+| eprewmean     | 34.8     |
+| pro_policy_vf | 4.2      |
+| test reward   | 28.7     |
+----------------------------
+********** Iteration 172 ************
+----------------------------
+| adv_policy_vf | 3.94     |
+| eplenmean     | 60.1     |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 4.25     |
+| test reward   | 28.8     |
+----------------------------
+********** Iteration 173 ************
+----------------------------
+| adv_policy_vf | 4.17     |
+| eplenmean     | 59.9     |
+| eprewmean     | 39       |
+| pro_policy_vf | 4.5      |
+| test reward   | 29.8     |
+----------------------------
+********** Iteration 174 ************
+----------------------------
+| adv_policy_vf | 4.32     |
+| eplenmean     | 59.1     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 4.3      |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 175 ************
+----------------------------
+| adv_policy_vf | 4.06     |
+| eplenmean     | 57.9     |
+| eprewmean     | 40.5     |
+| pro_policy_vf | 4.3      |
+| test reward   | 31.8     |
+----------------------------
+********** Iteration 176 ************
+----------------------------
+| adv_policy_vf | 3.77     |
+| eplenmean     | 58.2     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 3.87     |
+| test reward   | 31.4     |
+----------------------------
+********** Iteration 177 ************
+----------------------------
+| adv_policy_vf | 7.75     |
+| eplenmean     | 57       |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 7.17     |
+| test reward   | 31.3     |
+----------------------------
+********** Iteration 178 ************
+----------------------------
+| adv_policy_vf | 3.7      |
+| eplenmean     | 57.4     |
+| eprewmean     | 40       |
+| pro_policy_vf | 3.69     |
+| test reward   | 30.1     |
+----------------------------
+********** Iteration 179 ************
+----------------------------
+| adv_policy_vf | 3.45     |
+| eplenmean     | 57.7     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 3.43     |
+| test reward   | 32.3     |
+----------------------------
+********** Iteration 180 ************
+----------------------------
+| adv_policy_vf | 3.8      |
+| eplenmean     | 58.8     |
+| eprewmean     | 39.8     |
+| pro_policy_vf | 3.79     |
+| test reward   | 29.9     |
+----------------------------
+********** Iteration 181 ************
+----------------------------
+| adv_policy_vf | 3.16     |
+| eplenmean     | 59.9     |
+| eprewmean     | 38.9     |
+| pro_policy_vf | 3.27     |
+| test reward   | 30.7     |
+----------------------------
+********** Iteration 182 ************
+----------------------------
+| adv_policy_vf | 3.5      |
+| eplenmean     | 60.8     |
+| eprewmean     | 37.9     |
+| pro_policy_vf | 3.5      |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 183 ************
+----------------------------
+| adv_policy_vf | 4.1      |
+| eplenmean     | 60.2     |
+| eprewmean     | 38.2     |
+| pro_policy_vf | 4.14     |
+| test reward   | 32.2     |
+----------------------------
+********** Iteration 184 ************
+----------------------------
+| adv_policy_vf | 3.44     |
+| eplenmean     | 58.2     |
+| eprewmean     | 40.2     |
+| pro_policy_vf | 3.61     |
+| test reward   | 31.9     |
+----------------------------
+********** Iteration 185 ************
+----------------------------
+| adv_policy_vf | 3.48     |
+| eplenmean     | 57.9     |
+| eprewmean     | 40.3     |
+| pro_policy_vf | 3.67     |
+| test reward   | 31.7     |
+----------------------------
+********** Iteration 186 ************
+----------------------------
+| adv_policy_vf | 20.2     |
+| eplenmean     | 57.6     |
+| eprewmean     | 39.2     |
+| pro_policy_vf | 10.8     |
+| test reward   | 33.4     |
+----------------------------
+********** Iteration 187 ************
+----------------------------
+| adv_policy_vf | 4.1      |
+| eplenmean     | 58       |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 4        |
+| test reward   | 28.8     |
+----------------------------
+********** Iteration 188 ************
+----------------------------
+| adv_policy_vf | 3.4      |
+| eplenmean     | 57.7     |
+| eprewmean     | 39.4     |
+| pro_policy_vf | 3.5      |
+| test reward   | 31.7     |
+----------------------------
+********** Iteration 189 ************
+----------------------------
+| adv_policy_vf | 3.45     |
+| eplenmean     | 58.2     |
+| eprewmean     | 40.4     |
+| pro_policy_vf | 3.6      |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 190 ************
+----------------------------
+| adv_policy_vf | 11.6     |
+| eplenmean     | 57.7     |
+| eprewmean     | 39.4     |
+| pro_policy_vf | 4.54     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 191 ************
+----------------------------
+| adv_policy_vf | 11.7     |
+| eplenmean     | 57       |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 16.3     |
+| test reward   | 30       |
+----------------------------
+********** Iteration 192 ************
+----------------------------
+| adv_policy_vf | 4.29     |
+| eplenmean     | 57.1     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 4.21     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 193 ************
+----------------------------
+| adv_policy_vf | 6.13     |
+| eplenmean     | 56.9     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 7.44     |
+| test reward   | 28.5     |
+----------------------------
+********** Iteration 194 ************
+----------------------------
+| adv_policy_vf | 4        |
+| eplenmean     | 56.7     |
+| eprewmean     | 40       |
+| pro_policy_vf | 3.74     |
+| test reward   | 33.2     |
+----------------------------
+********** Iteration 195 ************
+----------------------------
+| adv_policy_vf | 11.3     |
+| eplenmean     | 57.6     |
+| eprewmean     | 37.8     |
+| pro_policy_vf | 11.2     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 196 ************
+----------------------------
+| adv_policy_vf | 6.29     |
+| eplenmean     | 57.2     |
+| eprewmean     | 36.7     |
+| pro_policy_vf | 6.74     |
+| test reward   | 28.7     |
+----------------------------
+********** Iteration 197 ************
+----------------------------
+| adv_policy_vf | 52.6     |
+| eplenmean     | 55.5     |
+| eprewmean     | 34.9     |
+| pro_policy_vf | 50       |
+| test reward   | 32       |
+----------------------------
+********** Iteration 198 ************
+----------------------------
+| adv_policy_vf | 15.1     |
+| eplenmean     | 54       |
+| eprewmean     | 35.6     |
+| pro_policy_vf | 13.4     |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 199 ************
+----------------------------
+| adv_policy_vf | 6.54     |
+| eplenmean     | 53.8     |
+| eprewmean     | 36.9     |
+| pro_policy_vf | 5.98     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 200 ************
+----------------------------
+| adv_policy_vf | 15.8     |
+| eplenmean     | 54.5     |
+| eprewmean     | 38.1     |
+| pro_policy_vf | 16       |
+| test reward   | 25.8     |
+----------------------------
+********** Iteration 201 ************
+----------------------------
+| adv_policy_vf | 3.92     |
+| eplenmean     | 55.4     |
+| eprewmean     | 39       |
+| pro_policy_vf | 3.96     |
+| test reward   | 32.7     |
+----------------------------
+********** Iteration 202 ************
+----------------------------
+| adv_policy_vf | 10.4     |
+| eplenmean     | 56.5     |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 7.89     |
+| test reward   | 26.6     |
+----------------------------
+********** Iteration 203 ************
+----------------------------
+| adv_policy_vf | 16       |
+| eplenmean     | 56.9     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 17       |
+| test reward   | 32.3     |
+----------------------------
+********** Iteration 204 ************
+----------------------------
+| adv_policy_vf | 31.1     |
+| eplenmean     | 56.8     |
+| eprewmean     | 35.6     |
+| pro_policy_vf | 36.5     |
+| test reward   | 29.2     |
+----------------------------
+********** Iteration 205 ************
+----------------------------
+| adv_policy_vf | 21.9     |
+| eplenmean     | 56       |
+| eprewmean     | 34.4     |
+| pro_policy_vf | 20.9     |
+| test reward   | 30.5     |
+----------------------------
+********** Iteration 206 ************
+----------------------------
+| adv_policy_vf | 6.05     |
+| eplenmean     | 56.7     |
+| eprewmean     | 35.1     |
+| pro_policy_vf | 4.9      |
+| test reward   | 31.2     |
+----------------------------
+********** Iteration 207 ************
+----------------------------
+| adv_policy_vf | 41.4     |
+| eplenmean     | 56       |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 36.8     |
+| test reward   | 28.9     |
+----------------------------
+********** Iteration 208 ************
+----------------------------
+| adv_policy_vf | 7.38     |
+| eplenmean     | 55.9     |
+| eprewmean     | 38.7     |
+| pro_policy_vf | 5.46     |
+| test reward   | 25.3     |
+----------------------------
+********** Iteration 209 ************
+----------------------------
+| adv_policy_vf | 4.23     |
+| eplenmean     | 55.6     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 4.05     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 210 ************
+----------------------------
+| adv_policy_vf | 3.91     |
+| eplenmean     | 56.7     |
+| eprewmean     | 40       |
+| pro_policy_vf | 4.12     |
+| test reward   | 25.3     |
+----------------------------
+********** Iteration 211 ************
+----------------------------
+| adv_policy_vf | 18.9     |
+| eplenmean     | 55.2     |
+| eprewmean     | 35.6     |
+| pro_policy_vf | 12.6     |
+| test reward   | 1.12     |
+----------------------------
+********** Iteration 212 ************
+----------------------------
+| adv_policy_vf | 47.2     |
+| eplenmean     | 55.8     |
+| eprewmean     | 29.4     |
+| pro_policy_vf | 44.4     |
+| test reward   | 5.5      |
+----------------------------
+********** Iteration 213 ************
+----------------------------
+| adv_policy_vf | 71.5     |
+| eplenmean     | 54.8     |
+| eprewmean     | 20.6     |
+| pro_policy_vf | 77.2     |
+| test reward   | 1.56     |
+----------------------------
+********** Iteration 214 ************
+----------------------------
+| adv_policy_vf | 22.6     |
+| eplenmean     | 57.5     |
+| eprewmean     | 18.6     |
+| pro_policy_vf | 22.3     |
+| test reward   | 8.98     |
+----------------------------
+********** Iteration 215 ************
+----------------------------
+| adv_policy_vf | 36.9     |
+| eplenmean     | 54.9     |
+| eprewmean     | 10.8     |
+| pro_policy_vf | 35.9     |
+| test reward   | -21.3    |
+----------------------------
+********** Iteration 216 ************
+----------------------------
+| adv_policy_vf | 43.6     |
+| eplenmean     | 54.5     |
+| eprewmean     | 1.45     |
+| pro_policy_vf | 44.4     |
+| test reward   | 5.06     |
+----------------------------
+********** Iteration 217 ************
+----------------------------
+| adv_policy_vf | 22.4     |
+| eplenmean     | 55.2     |
+| eprewmean     | -0.185   |
+| pro_policy_vf | 23.3     |
+| test reward   | -4.76    |
+----------------------------
+********** Iteration 218 ************
+----------------------------
+| adv_policy_vf | 39       |
+| eplenmean     | 56.2     |
+| eprewmean     | 3.66     |
+| pro_policy_vf | 40.9     |
+| test reward   | 4.54     |
+----------------------------
+********** Iteration 219 ************
+----------------------------
+| adv_policy_vf | 26.9     |
+| eplenmean     | 56.7     |
+| eprewmean     | 7.09     |
+| pro_policy_vf | 22.7     |
+| test reward   | 7.08     |
+----------------------------
+********** Iteration 220 ************
+----------------------------
+| adv_policy_vf | 12.2     |
+| eplenmean     | 54.9     |
+| eprewmean     | 10.8     |
+| pro_policy_vf | 9.41     |
+| test reward   | 22.1     |
+----------------------------
+********** Iteration 221 ************
+----------------------------
+| adv_policy_vf | 8.3      |
+| eplenmean     | 55.4     |
+| eprewmean     | 20.1     |
+| pro_policy_vf | 7.72     |
+| test reward   | 22.5     |
+----------------------------
+********** Iteration 222 ************
+----------------------------
+| adv_policy_vf | 22.6     |
+| eplenmean     | 55.9     |
+| eprewmean     | 28.3     |
+| pro_policy_vf | 24       |
+| test reward   | 6.14     |
+----------------------------
+********** Iteration 223 ************
+----------------------------
+| adv_policy_vf | 9.94     |
+| eplenmean     | 56.8     |
+| eprewmean     | 27.3     |
+| pro_policy_vf | 9.75     |
+| test reward   | -0.12    |
+----------------------------
+********** Iteration 224 ************
+----------------------------
+| adv_policy_vf | 38.9     |
+| eplenmean     | 57.9     |
+| eprewmean     | 20.9     |
+| pro_policy_vf | 38.6     |
+| test reward   | 16.6     |
+----------------------------
+********** Iteration 225 ************
+----------------------------
+| adv_policy_vf | 12.8     |
+| eplenmean     | 57       |
+| eprewmean     | 13.4     |
+| pro_policy_vf | 13       |
+| test reward   | 17.5     |
+----------------------------
+********** Iteration 226 ************
+----------------------------
+| adv_policy_vf | 16.3     |
+| eplenmean     | 55.8     |
+| eprewmean     | 14.4     |
+| pro_policy_vf | 17.8     |
+| test reward   | 15.2     |
+----------------------------
+********** Iteration 227 ************
+----------------------------
+| adv_policy_vf | 26.1     |
+| eplenmean     | 56.6     |
+| eprewmean     | 16.9     |
+| pro_policy_vf | 26       |
+| test reward   | 3.28     |
+----------------------------
+********** Iteration 228 ************
+----------------------------
+| adv_policy_vf | 22.4     |
+| eplenmean     | 57       |
+| eprewmean     | 13.6     |
+| pro_policy_vf | 26.1     |
+| test reward   | 19.1     |
+----------------------------
+********** Iteration 229 ************
+----------------------------
+| adv_policy_vf | 28.4     |
+| eplenmean     | 56.6     |
+| eprewmean     | 8.95     |
+| pro_policy_vf | 25.7     |
+| test reward   | 24.9     |
+----------------------------
+********** Iteration 230 ************
+----------------------------
+| adv_policy_vf | 26.8     |
+| eplenmean     | 56       |
+| eprewmean     | 6.57     |
+| pro_policy_vf | 25.5     |
+| test reward   | 24.8     |
+----------------------------
+********** Iteration 231 ************
+----------------------------
+| adv_policy_vf | 20.4     |
+| eplenmean     | 55       |
+| eprewmean     | 13.1     |
+| pro_policy_vf | 21.6     |
+| test reward   | 23       |
+----------------------------
+********** Iteration 232 ************
+----------------------------
+| adv_policy_vf | 12.7     |
+| eplenmean     | 55.7     |
+| eprewmean     | 23       |
+| pro_policy_vf | 12.5     |
+| test reward   | 35.2     |
+----------------------------
+********** Iteration 233 ************
+----------------------------
+| adv_policy_vf | 6.71     |
+| eplenmean     | 55.9     |
+| eprewmean     | 34       |
+| pro_policy_vf | 5.32     |
+| test reward   | 30.2     |
+----------------------------
+********** Iteration 234 ************
+----------------------------
+| adv_policy_vf | 29.8     |
+| eplenmean     | 55.6     |
+| eprewmean     | 36.6     |
+| pro_policy_vf | 46.7     |
+| test reward   | 20.4     |
+----------------------------
+********** Iteration 235 ************
+----------------------------
+| adv_policy_vf | 7.66     |
+| eplenmean     | 55.5     |
+| eprewmean     | 30       |
+| pro_policy_vf | 6.69     |
+| test reward   | 17.9     |
+----------------------------
+********** Iteration 236 ************
+----------------------------
+| adv_policy_vf | 16.9     |
+| eplenmean     | 56       |
+| eprewmean     | 24       |
+| pro_policy_vf | 12.3     |
+| test reward   | 14.4     |
+----------------------------
+********** Iteration 237 ************
+----------------------------
+| adv_policy_vf | 26.5     |
+| eplenmean     | 57.6     |
+| eprewmean     | 16.9     |
+| pro_policy_vf | 24.3     |
+| test reward   | -7.78    |
+----------------------------
+********** Iteration 238 ************
+----------------------------
+| adv_policy_vf | 24.4     |
+| eplenmean     | 56.7     |
+| eprewmean     | 9.59     |
+| pro_policy_vf | 15.8     |
+| test reward   | 17.4     |
+----------------------------
+********** Iteration 239 ************
+----------------------------
+| adv_policy_vf | 11.5     |
+| eplenmean     | 56.9     |
+| eprewmean     | 11       |
+| pro_policy_vf | 11.6     |
+| test reward   | -2.36    |
+----------------------------
+********** Iteration 240 ************
+----------------------------
+| adv_policy_vf | 41.5     |
+| eplenmean     | 55.5     |
+| eprewmean     | 15.2     |
+| pro_policy_vf | 40.8     |
+| test reward   | -4.08    |
+----------------------------
+********** Iteration 241 ************
+----------------------------
+| adv_policy_vf | 40.1     |
+| eplenmean     | 53.5     |
+| eprewmean     | 12.2     |
+| pro_policy_vf | 43.7     |
+| test reward   | -1.92    |
+----------------------------
+********** Iteration 242 ************
+----------------------------
+| adv_policy_vf | 51.8     |
+| eplenmean     | 54.1     |
+| eprewmean     | 12       |
+| pro_policy_vf | 59.6     |
+| test reward   | 13.3     |
+----------------------------
+********** Iteration 243 ************
+----------------------------
+| adv_policy_vf | 109      |
+| eplenmean     | 51.9     |
+| eprewmean     | 4.45     |
+| pro_policy_vf | 138      |
+| test reward   | 2.7      |
+----------------------------
+********** Iteration 244 ************
+----------------------------
+| adv_policy_vf | 77.1     |
+| eplenmean     | 52.2     |
+| eprewmean     | 7.07     |
+| pro_policy_vf | 84       |
+| test reward   | -3.68    |
+----------------------------
+********** Iteration 245 ************
+----------------------------
+| adv_policy_vf | 196      |
+| eplenmean     | 51.1     |
+| eprewmean     | 9.45     |
+| pro_policy_vf | 216      |
+| test reward   | 5.96     |
+----------------------------
+********** Iteration 246 ************
+----------------------------
+| adv_policy_vf | 158      |
+| eplenmean     | 51.9     |
+| eprewmean     | 10       |
+| pro_policy_vf | 183      |
+| test reward   | 15.9     |
+----------------------------
+********** Iteration 247 ************
+----------------------------
+| adv_policy_vf | 130      |
+| eplenmean     | 52.4     |
+| eprewmean     | 14.2     |
+| pro_policy_vf | 149      |
+| test reward   | 20.8     |
+----------------------------
+********** Iteration 248 ************
+----------------------------
+| adv_policy_vf | 85.3     |
+| eplenmean     | 53.4     |
+| eprewmean     | 19.3     |
+| pro_policy_vf | 96.4     |
+| test reward   | 13.1     |
+----------------------------
+********** Iteration 249 ************
+----------------------------
+| adv_policy_vf | 49.5     |
+| eplenmean     | 52.8     |
+| eprewmean     | 24.3     |
+| pro_policy_vf | 52.5     |
+| test reward   | 25.4     |
+----------------------------
+********** Iteration 250 ************
+----------------------------
+| adv_policy_vf | 42.9     |
+| eplenmean     | 54.7     |
+| eprewmean     | 27.5     |
+| pro_policy_vf | 48.9     |
+| test reward   | 29       |
+----------------------------
+********** Iteration 251 ************
+----------------------------
+| adv_policy_vf | 39.8     |
+| eplenmean     | 55.6     |
+| eprewmean     | 32.2     |
+| pro_policy_vf | 39.4     |
+| test reward   | 18.3     |
+----------------------------
+********** Iteration 252 ************
+----------------------------
+| adv_policy_vf | 25.3     |
+| eplenmean     | 56.4     |
+| eprewmean     | 28.9     |
+| pro_policy_vf | 24.4     |
+| test reward   | 22.9     |
+----------------------------
+********** Iteration 253 ************
+----------------------------
+| adv_policy_vf | 53.7     |
+| eplenmean     | 55       |
+| eprewmean     | 27.2     |
+| pro_policy_vf | 57.6     |
+| test reward   | 23.1     |
+----------------------------
+********** Iteration 254 ************
+----------------------------
+| adv_policy_vf | 32.3     |
+| eplenmean     | 54.6     |
+| eprewmean     | 29.7     |
+| pro_policy_vf | 31.6     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 255 ************
+----------------------------
+| adv_policy_vf | 52.4     |
+| eplenmean     | 54.6     |
+| eprewmean     | 28.8     |
+| pro_policy_vf | 64.7     |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 256 ************
+----------------------------
+| adv_policy_vf | 43.3     |
+| eplenmean     | 55.8     |
+| eprewmean     | 28.9     |
+| pro_policy_vf | 46.8     |
+| test reward   | 30.5     |
+----------------------------
+********** Iteration 257 ************
+----------------------------
+| adv_policy_vf | 10.6     |
+| eplenmean     | 57.1     |
+| eprewmean     | 25.6     |
+| pro_policy_vf | 11       |
+| test reward   | 24.4     |
+----------------------------
+********** Iteration 258 ************
+----------------------------
+| adv_policy_vf | 43.5     |
+| eplenmean     | 56.5     |
+| eprewmean     | 24       |
+| pro_policy_vf | 42.7     |
+| test reward   | 22.6     |
+----------------------------
+********** Iteration 259 ************
+----------------------------
+| adv_policy_vf | 38.1     |
+| eplenmean     | 55.4     |
+| eprewmean     | 23.8     |
+| pro_policy_vf | 40.6     |
+| test reward   | 29       |
+----------------------------
+********** Iteration 260 ************
+----------------------------
+| adv_policy_vf | 8.42     |
+| eplenmean     | 57.1     |
+| eprewmean     | 29.1     |
+| pro_policy_vf | 8.81     |
+| test reward   | 26.7     |
+----------------------------
+********** Iteration 261 ************
+----------------------------
+| adv_policy_vf | 7.28     |
+| eplenmean     | 57.8     |
+| eprewmean     | 31.8     |
+| pro_policy_vf | 7.16     |
+| test reward   | 30.4     |
+----------------------------
+********** Iteration 262 ************
+----------------------------
+| adv_policy_vf | 7.53     |
+| eplenmean     | 58.8     |
+| eprewmean     | 31       |
+| pro_policy_vf | 6.79     |
+| test reward   | 27.9     |
+----------------------------
+********** Iteration 263 ************
+----------------------------
+| adv_policy_vf | 7.19     |
+| eplenmean     | 58.7     |
+| eprewmean     | 29.5     |
+| pro_policy_vf | 7.32     |
+| test reward   | 24.7     |
+----------------------------
+********** Iteration 264 ************
+----------------------------
+| adv_policy_vf | 9.27     |
+| eplenmean     | 58.5     |
+| eprewmean     | 29.2     |
+| pro_policy_vf | 8.1      |
+| test reward   | 13.2     |
+----------------------------
+********** Iteration 265 ************
+----------------------------
+| adv_policy_vf | 10.1     |
+| eplenmean     | 57.6     |
+| eprewmean     | 31.4     |
+| pro_policy_vf | 10.9     |
+| test reward   | 26.1     |
+----------------------------
+********** Iteration 266 ************
+----------------------------
+| adv_policy_vf | 10.1     |
+| eplenmean     | 57.4     |
+| eprewmean     | 33       |
+| pro_policy_vf | 7.79     |
+| test reward   | 25.9     |
+----------------------------
+********** Iteration 267 ************
+----------------------------
+| adv_policy_vf | 9.67     |
+| eplenmean     | 56.3     |
+| eprewmean     | 33.9     |
+| pro_policy_vf | 8.06     |
+| test reward   | 29.2     |
+----------------------------
+********** Iteration 268 ************
+----------------------------
+| adv_policy_vf | 4.26     |
+| eplenmean     | 56.7     |
+| eprewmean     | 35.1     |
+| pro_policy_vf | 4.42     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 269 ************
+----------------------------
+| adv_policy_vf | 7.16     |
+| eplenmean     | 56       |
+| eprewmean     | 36       |
+| pro_policy_vf | 6.85     |
+| test reward   | 28.6     |
+----------------------------
+********** Iteration 270 ************
+----------------------------
+| adv_policy_vf | 9.92     |
+| eplenmean     | 55.6     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 12.1     |
+| test reward   | 35.3     |
+----------------------------
+********** Iteration 271 ************
+----------------------------
+| adv_policy_vf | 11.1     |
+| eplenmean     | 54.5     |
+| eprewmean     | 36.5     |
+| pro_policy_vf | 12.6     |
+| test reward   | 25.9     |
+----------------------------
+********** Iteration 272 ************
+----------------------------
+| adv_policy_vf | 6.93     |
+| eplenmean     | 55.2     |
+| eprewmean     | 36.6     |
+| pro_policy_vf | 5.92     |
+| test reward   | 24.5     |
+----------------------------
+********** Iteration 273 ************
+----------------------------
+| adv_policy_vf | 38       |
+| eplenmean     | 55.8     |
+| eprewmean     | 33.4     |
+| pro_policy_vf | 47.2     |
+| test reward   | 31.5     |
+----------------------------
+********** Iteration 274 ************
+----------------------------
+| adv_policy_vf | 55.6     |
+| eplenmean     | 54.4     |
+| eprewmean     | 33.3     |
+| pro_policy_vf | 59.3     |
+| test reward   | 30.5     |
+----------------------------
+********** Iteration 275 ************
+----------------------------
+| adv_policy_vf | 24.1     |
+| eplenmean     | 54       |
+| eprewmean     | 32.9     |
+| pro_policy_vf | 28.3     |
+| test reward   | 24.7     |
+----------------------------
+********** Iteration 276 ************
+----------------------------
+| adv_policy_vf | 51.5     |
+| eplenmean     | 53.4     |
+| eprewmean     | 33.6     |
+| pro_policy_vf | 60       |
+| test reward   | 27       |
+----------------------------
+********** Iteration 277 ************
+----------------------------
+| adv_policy_vf | 29.1     |
+| eplenmean     | 52.9     |
+| eprewmean     | 30.8     |
+| pro_policy_vf | 25.8     |
+| test reward   | 33.5     |
+----------------------------
+********** Iteration 278 ************
+----------------------------
+| adv_policy_vf | 33.8     |
+| eplenmean     | 52.4     |
+| eprewmean     | 29.6     |
+| pro_policy_vf | 37.7     |
+| test reward   | 19.9     |
+----------------------------
+********** Iteration 279 ************
+----------------------------
+| adv_policy_vf | 63.7     |
+| eplenmean     | 52.3     |
+| eprewmean     | 25.1     |
+| pro_policy_vf | 68       |
+| test reward   | 31.3     |
+----------------------------
+********** Iteration 280 ************
+----------------------------
+| adv_policy_vf | 70.2     |
+| eplenmean     | 53.5     |
+| eprewmean     | 20.9     |
+| pro_policy_vf | 77.1     |
+| test reward   | 29.1     |
+----------------------------
+********** Iteration 281 ************
+----------------------------
+| adv_policy_vf | 35.7     |
+| eplenmean     | 54.6     |
+| eprewmean     | 24.4     |
+| pro_policy_vf | 35.6     |
+| test reward   | 26.9     |
+----------------------------
+********** Iteration 282 ************
+----------------------------
+| adv_policy_vf | 17.9     |
+| eplenmean     | 54.6     |
+| eprewmean     | 32.9     |
+| pro_policy_vf | 11.4     |
+| test reward   | 30.1     |
+----------------------------
+********** Iteration 283 ************
+----------------------------
+| adv_policy_vf | 32.9     |
+| eplenmean     | 53.8     |
+| eprewmean     | 33.6     |
+| pro_policy_vf | 36       |
+| test reward   | 33.9     |
+----------------------------
+********** Iteration 284 ************
+----------------------------
+| adv_policy_vf | 9.32     |
+| eplenmean     | 53.8     |
+| eprewmean     | 31       |
+| pro_policy_vf | 10.5     |
+| test reward   | 24       |
+----------------------------
+********** Iteration 285 ************
+----------------------------
+| adv_policy_vf | 40.2     |
+| eplenmean     | 54.2     |
+| eprewmean     | 28.7     |
+| pro_policy_vf | 47.6     |
+| test reward   | 29       |
+----------------------------
+********** Iteration 286 ************
+----------------------------
+| adv_policy_vf | 14       |
+| eplenmean     | 54.5     |
+| eprewmean     | 30.8     |
+| pro_policy_vf | 9.87     |
+| test reward   | 25.2     |
+----------------------------
+********** Iteration 287 ************
+----------------------------
+| adv_policy_vf | 6.34     |
+| eplenmean     | 55.6     |
+| eprewmean     | 33.8     |
+| pro_policy_vf | 5.64     |
+| test reward   | 20.7     |
+----------------------------
+********** Iteration 288 ************
+----------------------------
+| adv_policy_vf | 7.47     |
+| eplenmean     | 55.1     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 7.12     |
+| test reward   | 32.1     |
+----------------------------
+********** Iteration 289 ************
+----------------------------
+| adv_policy_vf | 31.9     |
+| eplenmean     | 54.4     |
+| eprewmean     | 36.5     |
+| pro_policy_vf | 34.8     |
+| test reward   | 34       |
+----------------------------
+********** Iteration 290 ************
+----------------------------
+| adv_policy_vf | 72.7     |
+| eplenmean     | 53.4     |
+| eprewmean     | 32.9     |
+| pro_policy_vf | 80       |
+| test reward   | 24.5     |
+----------------------------
+********** Iteration 291 ************
+----------------------------
+| adv_policy_vf | 49.7     |
+| eplenmean     | 53.3     |
+| eprewmean     | 32.1     |
+| pro_policy_vf | 46.7     |
+| test reward   | 20.3     |
+----------------------------
+********** Iteration 292 ************
+----------------------------
+| adv_policy_vf | 94.2     |
+| eplenmean     | 53.5     |
+| eprewmean     | 29.9     |
+| pro_policy_vf | 93.8     |
+| test reward   | 31.4     |
+----------------------------
+********** Iteration 293 ************
+----------------------------
+| adv_policy_vf | 22.4     |
+| eplenmean     | 54.4     |
+| eprewmean     | 29.7     |
+| pro_policy_vf | 20.2     |
+| test reward   | 30.4     |
+----------------------------
+********** Iteration 294 ************
+----------------------------
+| adv_policy_vf | 39.4     |
+| eplenmean     | 55.5     |
+| eprewmean     | 31.1     |
+| pro_policy_vf | 39       |
+| test reward   | 18.6     |
+----------------------------
+********** Iteration 295 ************
+----------------------------
+| adv_policy_vf | 12.4     |
+| eplenmean     | 57.3     |
+| eprewmean     | 31.6     |
+| pro_policy_vf | 12.6     |
+| test reward   | 25.4     |
+----------------------------
+********** Iteration 296 ************
+----------------------------
+| adv_policy_vf | 22.8     |
+| eplenmean     | 58.5     |
+| eprewmean     | 30.7     |
+| pro_policy_vf | 21.6     |
+| test reward   | 27.2     |
+----------------------------
+********** Iteration 297 ************
+----------------------------
+| adv_policy_vf | 65.4     |
+| eplenmean     | 56.1     |
+| eprewmean     | 24.8     |
+| pro_policy_vf | 73.8     |
+| test reward   | 26.5     |
+----------------------------
+********** Iteration 298 ************
+----------------------------
+| adv_policy_vf | 50.7     |
+| eplenmean     | 54.7     |
+| eprewmean     | 25.8     |
+| pro_policy_vf | 69.5     |
+| test reward   | 24.1     |
+----------------------------
+********** Iteration 299 ************
+----------------------------
+| adv_policy_vf | 76.1     |
+| eplenmean     | 53.4     |
+| eprewmean     | 28.1     |
+| pro_policy_vf | 80.6     |
+| test reward   | 27.1     |
+----------------------------
+********** Iteration 300 ************
+----------------------------
+| adv_policy_vf | 7.03     |
+| eplenmean     | 55       |
+| eprewmean     | 33.7     |
+| pro_policy_vf | 6.66     |
+| test reward   | 21.6     |
+----------------------------
+********** Iteration 301 ************
+----------------------------
+| adv_policy_vf | 23.7     |
+| eplenmean     | 56.5     |
+| eprewmean     | 29.3     |
+| pro_policy_vf | 18.5     |
+| test reward   | 20.9     |
+----------------------------
+********** Iteration 302 ************
+----------------------------
+| adv_policy_vf | 15.6     |
+| eplenmean     | 58.8     |
+| eprewmean     | 29.4     |
+| pro_policy_vf | 16.1     |
+| test reward   | 31.1     |
+----------------------------
+********** Iteration 303 ************
+----------------------------
+| adv_policy_vf | 7.38     |
+| eplenmean     | 58.9     |
+| eprewmean     | 29.6     |
+| pro_policy_vf | 7.6      |
+| test reward   | 26.5     |
+----------------------------
+********** Iteration 304 ************
+----------------------------
+| adv_policy_vf | 28.3     |
+| eplenmean     | 58       |
+| eprewmean     | 33.4     |
+| pro_policy_vf | 28.8     |
+| test reward   | 29.9     |
+----------------------------
+********** Iteration 305 ************
+----------------------------
+| adv_policy_vf | 35.3     |
+| eplenmean     | 57.7     |
+| eprewmean     | 33.1     |
+| pro_policy_vf | 31.5     |
+| test reward   | 30.4     |
+----------------------------
+********** Iteration 306 ************
+----------------------------
+| adv_policy_vf | 61.9     |
+| eplenmean     | 57.1     |
+| eprewmean     | 32.5     |
+| pro_policy_vf | 62.1     |
+| test reward   | 25.5     |
+----------------------------
+********** Iteration 307 ************
+----------------------------
+| adv_policy_vf | 9.94     |
+| eplenmean     | 57.1     |
+| eprewmean     | 34.4     |
+| pro_policy_vf | 9.34     |
+| test reward   | 30.4     |
+----------------------------
+********** Iteration 308 ************
+----------------------------
+| adv_policy_vf | 30.6     |
+| eplenmean     | 57.1     |
+| eprewmean     | 33.2     |
+| pro_policy_vf | 35.2     |
+| test reward   | 25.1     |
+----------------------------
+********** Iteration 309 ************
+----------------------------
+| adv_policy_vf | 7.8      |
+| eplenmean     | 57.7     |
+| eprewmean     | 35.2     |
+| pro_policy_vf | 6.46     |
+| test reward   | 29.8     |
+----------------------------
+********** Iteration 310 ************
+----------------------------
+| adv_policy_vf | 22       |
+| eplenmean     | 59.1     |
+| eprewmean     | 34.3     |
+| pro_policy_vf | 29.4     |
+| test reward   | 28       |
+----------------------------
+********** Iteration 311 ************
+----------------------------
+| adv_policy_vf | 19.3     |
+| eplenmean     | 58.2     |
+| eprewmean     | 36.2     |
+| pro_policy_vf | 27.3     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 312 ************
+----------------------------
+| adv_policy_vf | 42.5     |
+| eplenmean     | 57.6     |
+| eprewmean     | 33.6     |
+| pro_policy_vf | 47.3     |
+| test reward   | 24       |
+----------------------------
+********** Iteration 313 ************
+----------------------------
+| adv_policy_vf | 31.4     |
+| eplenmean     | 57.7     |
+| eprewmean     | 33.5     |
+| pro_policy_vf | 34.8     |
+| test reward   | 25.4     |
+----------------------------
+********** Iteration 314 ************
+----------------------------
+| adv_policy_vf | 6.8      |
+| eplenmean     | 59.9     |
+| eprewmean     | 34.5     |
+| pro_policy_vf | 5.6      |
+| test reward   | 30.3     |
+----------------------------
+********** Iteration 315 ************
+----------------------------
+| adv_policy_vf | 5.16     |
+| eplenmean     | 59.4     |
+| eprewmean     | 36.6     |
+| pro_policy_vf | 5.05     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 316 ************
+----------------------------
+| adv_policy_vf | 3.61     |
+| eplenmean     | 59.3     |
+| eprewmean     | 38       |
+| pro_policy_vf | 3.85     |
+| test reward   | 26.9     |
+----------------------------
+********** Iteration 317 ************
+----------------------------
+| adv_policy_vf | 14.1     |
+| eplenmean     | 58.4     |
+| eprewmean     | 37.6     |
+| pro_policy_vf | 17.5     |
+| test reward   | 29.5     |
+----------------------------
+********** Iteration 318 ************
+----------------------------
+| adv_policy_vf | 4.63     |
+| eplenmean     | 59.4     |
+| eprewmean     | 36.9     |
+| pro_policy_vf | 4.93     |
+| test reward   | 30.3     |
+----------------------------
+********** Iteration 319 ************
+----------------------------
+| adv_policy_vf | 4.24     |
+| eplenmean     | 59.8     |
+| eprewmean     | 36.2     |
+| pro_policy_vf | 4.63     |
+| test reward   | 26.1     |
+----------------------------
+********** Iteration 320 ************
+----------------------------
+| adv_policy_vf | 6.62     |
+| eplenmean     | 57.8     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 7.42     |
+| test reward   | 26.3     |
+----------------------------
+********** Iteration 321 ************
+----------------------------
+| adv_policy_vf | 13.5     |
+| eplenmean     | 58.2     |
+| eprewmean     | 35.8     |
+| pro_policy_vf | 13.7     |
+| test reward   | 29       |
+----------------------------
+********** Iteration 322 ************
+----------------------------
+| adv_policy_vf | 5.34     |
+| eplenmean     | 56.8     |
+| eprewmean     | 37.2     |
+| pro_policy_vf | 4.92     |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 323 ************
+----------------------------
+| adv_policy_vf | 5.08     |
+| eplenmean     | 57.4     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 4.84     |
+| test reward   | 28.5     |
+----------------------------
+********** Iteration 324 ************
+----------------------------
+| adv_policy_vf | 4.88     |
+| eplenmean     | 56.3     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 4.91     |
+| test reward   | 29.1     |
+----------------------------
+********** Iteration 325 ************
+----------------------------
+| adv_policy_vf | 23.3     |
+| eplenmean     | 56       |
+| eprewmean     | 37.9     |
+| pro_policy_vf | 20.8     |
+| test reward   | 30.7     |
+----------------------------
+********** Iteration 326 ************
+----------------------------
+| adv_policy_vf | 31.7     |
+| eplenmean     | 56.4     |
+| eprewmean     | 33.1     |
+| pro_policy_vf | 29.4     |
+| test reward   | 33.8     |
+----------------------------
+********** Iteration 327 ************
+----------------------------
+| adv_policy_vf | 5.94     |
+| eplenmean     | 55.8     |
+| eprewmean     | 36.7     |
+| pro_policy_vf | 5.47     |
+| test reward   | 33.1     |
+----------------------------
+********** Iteration 328 ************
+----------------------------
+| adv_policy_vf | 4.34     |
+| eplenmean     | 56.2     |
+| eprewmean     | 36       |
+| pro_policy_vf | 4.47     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 329 ************
+----------------------------
+| adv_policy_vf | 62.1     |
+| eplenmean     | 55.8     |
+| eprewmean     | 35.1     |
+| pro_policy_vf | 58.3     |
+| test reward   | 33.3     |
+----------------------------
+********** Iteration 330 ************
+----------------------------
+| adv_policy_vf | 49.1     |
+| eplenmean     | 56.3     |
+| eprewmean     | 29.5     |
+| pro_policy_vf | 46.6     |
+| test reward   | 26.9     |
+----------------------------
+********** Iteration 331 ************
+----------------------------
+| adv_policy_vf | 29.6     |
+| eplenmean     | 54.6     |
+| eprewmean     | 30.6     |
+| pro_policy_vf | 35.7     |
+| test reward   | 33.6     |
+----------------------------
+********** Iteration 332 ************
+----------------------------
+| adv_policy_vf | 8.74     |
+| eplenmean     | 55.9     |
+| eprewmean     | 35.3     |
+| pro_policy_vf | 6.99     |
+| test reward   | 28.9     |
+----------------------------
+********** Iteration 333 ************
+----------------------------
+| adv_policy_vf | 22.3     |
+| eplenmean     | 57.3     |
+| eprewmean     | 35.3     |
+| pro_policy_vf | 20.5     |
+| test reward   | 23.4     |
+----------------------------
+********** Iteration 334 ************
+----------------------------
+| adv_policy_vf | 11.8     |
+| eplenmean     | 58       |
+| eprewmean     | 37.9     |
+| pro_policy_vf | 8.1      |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 335 ************
+----------------------------
+| adv_policy_vf | 9.85     |
+| eplenmean     | 57       |
+| eprewmean     | 37.2     |
+| pro_policy_vf | 12.5     |
+| test reward   | 33.3     |
+----------------------------
+********** Iteration 336 ************
+----------------------------
+| adv_policy_vf | 16.1     |
+| eplenmean     | 57.3     |
+| eprewmean     | 36.7     |
+| pro_policy_vf | 14.1     |
+| test reward   | 29.8     |
+----------------------------
+********** Iteration 337 ************
+----------------------------
+| adv_policy_vf | 5.88     |
+| eplenmean     | 56.1     |
+| eprewmean     | 37.8     |
+| pro_policy_vf | 5.53     |
+| test reward   | 27.8     |
+----------------------------
+********** Iteration 338 ************
+----------------------------
+| adv_policy_vf | 30.3     |
+| eplenmean     | 54.2     |
+| eprewmean     | 35.4     |
+| pro_policy_vf | 27       |
+| test reward   | 32.1     |
+----------------------------
+********** Iteration 339 ************
+----------------------------
+| adv_policy_vf | 7.15     |
+| eplenmean     | 53.9     |
+| eprewmean     | 37.2     |
+| pro_policy_vf | 6.27     |
+| test reward   | 28.1     |
+----------------------------
+********** Iteration 340 ************
+----------------------------
+| adv_policy_vf | 43.5     |
+| eplenmean     | 53.3     |
+| eprewmean     | 32.8     |
+| pro_policy_vf | 38       |
+| test reward   | 10.3     |
+----------------------------
+********** Iteration 341 ************
+----------------------------
+| adv_policy_vf | 75.6     |
+| eplenmean     | 52.5     |
+| eprewmean     | 28.3     |
+| pro_policy_vf | 76.3     |
+| test reward   | 22.6     |
+----------------------------
+********** Iteration 342 ************
+----------------------------
+| adv_policy_vf | 8.33     |
+| eplenmean     | 53.4     |
+| eprewmean     | 26.3     |
+| pro_policy_vf | 7.83     |
+| test reward   | 28.7     |
+----------------------------
+********** Iteration 343 ************
+----------------------------
+| adv_policy_vf | 34.5     |
+| eplenmean     | 52.8     |
+| eprewmean     | 32.9     |
+| pro_policy_vf | 33.7     |
+| test reward   | 26.8     |
+----------------------------
+********** Iteration 344 ************
+----------------------------
+| adv_policy_vf | 42.3     |
+| eplenmean     | 53.5     |
+| eprewmean     | 34.8     |
+| pro_policy_vf | 42.4     |
+| test reward   | 33.7     |
+----------------------------
+********** Iteration 345 ************
+----------------------------
+| adv_policy_vf | 27.3     |
+| eplenmean     | 53.2     |
+| eprewmean     | 33.4     |
+| pro_policy_vf | 38.3     |
+| test reward   | 26.2     |
+----------------------------
+********** Iteration 346 ************
+----------------------------
+| adv_policy_vf | 7.31     |
+| eplenmean     | 54.2     |
+| eprewmean     | 36.9     |
+| pro_policy_vf | 6.38     |
+| test reward   | 30.2     |
+----------------------------
+********** Iteration 347 ************
+----------------------------
+| adv_policy_vf | 17       |
+| eplenmean     | 55.4     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 18.4     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 348 ************
+----------------------------
+| adv_policy_vf | 44       |
+| eplenmean     | 53.8     |
+| eprewmean     | 35.5     |
+| pro_policy_vf | 43.2     |
+| test reward   | 29.1     |
+----------------------------
+********** Iteration 349 ************
+----------------------------
+| adv_policy_vf | 29.7     |
+| eplenmean     | 52.9     |
+| eprewmean     | 33.6     |
+| pro_policy_vf | 32.9     |
+| test reward   | 25.3     |
+----------------------------
+********** Iteration 350 ************
+----------------------------
+| adv_policy_vf | 20.8     |
+| eplenmean     | 53.3     |
+| eprewmean     | 36.2     |
+| pro_policy_vf | 20.8     |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 351 ************
+----------------------------
+| adv_policy_vf | 37       |
+| eplenmean     | 53.6     |
+| eprewmean     | 37       |
+| pro_policy_vf | 38.7     |
+| test reward   | 30.7     |
+----------------------------
+********** Iteration 352 ************
+----------------------------
+| adv_policy_vf | 24.1     |
+| eplenmean     | 53.8     |
+| eprewmean     | 35.3     |
+| pro_policy_vf | 23.2     |
+| test reward   | 33.5     |
+----------------------------
+********** Iteration 353 ************
+----------------------------
+| adv_policy_vf | 9.45     |
+| eplenmean     | 54.7     |
+| eprewmean     | 37.3     |
+| pro_policy_vf | 6.67     |
+| test reward   | 32.6     |
+----------------------------
+********** Iteration 354 ************
+----------------------------
+| adv_policy_vf | 6.93     |
+| eplenmean     | 54.7     |
+| eprewmean     | 39.2     |
+| pro_policy_vf | 5.8      |
+| test reward   | 24.7     |
+----------------------------
+********** Iteration 355 ************
+----------------------------
+| adv_policy_vf | 6.8      |
+| eplenmean     | 55.8     |
+| eprewmean     | 41.3     |
+| pro_policy_vf | 5.45     |
+| test reward   | 32.6     |
+----------------------------
+********** Iteration 356 ************
+----------------------------
+| adv_policy_vf | 7.17     |
+| eplenmean     | 56.5     |
+| eprewmean     | 39.3     |
+| pro_policy_vf | 8.07     |
+| test reward   | 32.6     |
+----------------------------
+********** Iteration 357 ************
+----------------------------
+| adv_policy_vf | 4.21     |
+| eplenmean     | 56.5     |
+| eprewmean     | 39.2     |
+| pro_policy_vf | 4.26     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 358 ************
+----------------------------
+| adv_policy_vf | 4.57     |
+| eplenmean     | 56.2     |
+| eprewmean     | 40.9     |
+| pro_policy_vf | 4.8      |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 359 ************
+----------------------------
+| adv_policy_vf | 23.4     |
+| eplenmean     | 55.6     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 21.1     |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 360 ************
+----------------------------
+| adv_policy_vf | 5.06     |
+| eplenmean     | 55.8     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 4.58     |
+| test reward   | 31.6     |
+----------------------------
+********** Iteration 361 ************
+----------------------------
+| adv_policy_vf | 22       |
+| eplenmean     | 55.4     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 31.7     |
+| test reward   | 29       |
+----------------------------
+********** Iteration 362 ************
+----------------------------
+| adv_policy_vf | 37       |
+| eplenmean     | 55.7     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 35.1     |
+| test reward   | 31.8     |
+----------------------------
+********** Iteration 363 ************
+----------------------------
+| adv_policy_vf | 14.8     |
+| eplenmean     | 56.5     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 12.4     |
+| test reward   | 27.8     |
+----------------------------
+********** Iteration 364 ************
+----------------------------
+| adv_policy_vf | 16.6     |
+| eplenmean     | 56.7     |
+| eprewmean     | 36.4     |
+| pro_policy_vf | 14.4     |
+| test reward   | 33.9     |
+----------------------------
+********** Iteration 365 ************
+----------------------------
+| adv_policy_vf | 4.89     |
+| eplenmean     | 55.3     |
+| eprewmean     | 38.9     |
+| pro_policy_vf | 4.36     |
+| test reward   | 32.6     |
+----------------------------
+********** Iteration 366 ************
+----------------------------
+| adv_policy_vf | 5.18     |
+| eplenmean     | 54.8     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 4.78     |
+| test reward   | 34.7     |
+----------------------------
+********** Iteration 367 ************
+----------------------------
+| adv_policy_vf | 3.72     |
+| eplenmean     | 54.9     |
+| eprewmean     | 42.3     |
+| pro_policy_vf | 3.71     |
+| test reward   | 34.7     |
+----------------------------
+********** Iteration 368 ************
+----------------------------
+| adv_policy_vf | 4.32     |
+| eplenmean     | 55.1     |
+| eprewmean     | 41.7     |
+| pro_policy_vf | 4.41     |
+| test reward   | 34.6     |
+----------------------------
+********** Iteration 369 ************
+----------------------------
+| adv_policy_vf | 3.77     |
+| eplenmean     | 56       |
+| eprewmean     | 41       |
+| pro_policy_vf | 3.9      |
+| test reward   | 34.8     |
+----------------------------
+********** Iteration 370 ************
+----------------------------
+| adv_policy_vf | 4.01     |
+| eplenmean     | 56.6     |
+| eprewmean     | 40.5     |
+| pro_policy_vf | 4.21     |
+| test reward   | 36.1     |
+----------------------------
+********** Iteration 371 ************
+----------------------------
+| adv_policy_vf | 3.99     |
+| eplenmean     | 56       |
+| eprewmean     | 41.1     |
+| pro_policy_vf | 3.98     |
+| test reward   | 33.6     |
+----------------------------
+********** Iteration 372 ************
+----------------------------
+| adv_policy_vf | 4.55     |
+| eplenmean     | 56.1     |
+| eprewmean     | 41.1     |
+| pro_policy_vf | 4.05     |
+| test reward   | 35.2     |
+----------------------------
+********** Iteration 373 ************
+----------------------------
+| adv_policy_vf | 3.46     |
+| eplenmean     | 56.8     |
+| eprewmean     | 40.9     |
+| pro_policy_vf | 3.63     |
+| test reward   | 32.8     |
+----------------------------
+********** Iteration 374 ************
+----------------------------
+| adv_policy_vf | 3.61     |
+| eplenmean     | 57.5     |
+| eprewmean     | 40.2     |
+| pro_policy_vf | 3.9      |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 375 ************
+----------------------------
+| adv_policy_vf | 3.42     |
+| eplenmean     | 57.3     |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 3.57     |
+| test reward   | 35.1     |
+----------------------------
+********** Iteration 376 ************
+----------------------------
+| adv_policy_vf | 3.3      |
+| eplenmean     | 56.4     |
+| eprewmean     | 40.6     |
+| pro_policy_vf | 3.57     |
+| test reward   | 33.5     |
+----------------------------
+********** Iteration 377 ************
+----------------------------
+| adv_policy_vf | 3.15     |
+| eplenmean     | 56.6     |
+| eprewmean     | 40.5     |
+| pro_policy_vf | 3.47     |
+| test reward   | 31       |
+----------------------------
+********** Iteration 378 ************
+----------------------------
+| adv_policy_vf | 3.45     |
+| eplenmean     | 56.4     |
+| eprewmean     | 40.9     |
+| pro_policy_vf | 3.64     |
+| test reward   | 33.8     |
+----------------------------
+********** Iteration 379 ************
+----------------------------
+| adv_policy_vf | 3.33     |
+| eplenmean     | 56.2     |
+| eprewmean     | 41       |
+| pro_policy_vf | 3.45     |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 380 ************
+----------------------------
+| adv_policy_vf | 19.5     |
+| eplenmean     | 56.4     |
+| eprewmean     | 39.1     |
+| pro_policy_vf | 18.8     |
+| test reward   | 33.8     |
+----------------------------
+********** Iteration 381 ************
+----------------------------
+| adv_policy_vf | 15.9     |
+| eplenmean     | 55.9     |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 15       |
+| test reward   | 35.5     |
+----------------------------
+********** Iteration 382 ************
+----------------------------
+| adv_policy_vf | 4.39     |
+| eplenmean     | 55       |
+| eprewmean     | 39.6     |
+| pro_policy_vf | 3.9      |
+| test reward   | 32.5     |
+----------------------------
+********** Iteration 383 ************
+----------------------------
+| adv_policy_vf | 4.06     |
+| eplenmean     | 55       |
+| eprewmean     | 41       |
+| pro_policy_vf | 4.11     |
+| test reward   | 32.6     |
+----------------------------
+********** Iteration 384 ************
+----------------------------
+| adv_policy_vf | 3.2      |
+| eplenmean     | 55.4     |
+| eprewmean     | 42       |
+| pro_policy_vf | 3.31     |
+| test reward   | 33.3     |
+----------------------------
+********** Iteration 385 ************
+----------------------------
+| adv_policy_vf | 3.47     |
+| eplenmean     | 55.9     |
+| eprewmean     | 41.4     |
+| pro_policy_vf | 3.6      |
+| test reward   | 31.4     |
+----------------------------
+********** Iteration 386 ************
+----------------------------
+| adv_policy_vf | 4.43     |
+| eplenmean     | 56.5     |
+| eprewmean     | 40.5     |
+| pro_policy_vf | 4.33     |
+| test reward   | 34.3     |
+----------------------------
+********** Iteration 387 ************
+----------------------------
+| adv_policy_vf | 3.34     |
+| eplenmean     | 56.1     |
+| eprewmean     | 40.5     |
+| pro_policy_vf | 3.55     |
+| test reward   | 33       |
+----------------------------
+********** Iteration 388 ************
+----------------------------
+| adv_policy_vf | 3.59     |
+| eplenmean     | 56.3     |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 3.79     |
+| test reward   | 30       |
+----------------------------
+********** Iteration 389 ************
+----------------------------
+| adv_policy_vf | 3.17     |
+| eplenmean     | 55.8     |
+| eprewmean     | 41.1     |
+| pro_policy_vf | 3.4      |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 390 ************
+----------------------------
+| adv_policy_vf | 3.29     |
+| eplenmean     | 56.3     |
+| eprewmean     | 40.4     |
+| pro_policy_vf | 3.41     |
+| test reward   | 32.5     |
+----------------------------
+********** Iteration 391 ************
+----------------------------
+| adv_policy_vf | 3.39     |
+| eplenmean     | 55.4     |
+| eprewmean     | 41.2     |
+| pro_policy_vf | 3.58     |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 392 ************
+----------------------------
+| adv_policy_vf | 3.24     |
+| eplenmean     | 55.3     |
+| eprewmean     | 41.3     |
+| pro_policy_vf | 3.39     |
+| test reward   | 33.4     |
+----------------------------
+********** Iteration 393 ************
+----------------------------
+| adv_policy_vf | 9.66     |
+| eplenmean     | 54.9     |
+| eprewmean     | 40.4     |
+| pro_policy_vf | 8.92     |
+| test reward   | 34.3     |
+----------------------------
+********** Iteration 394 ************
+----------------------------
+| adv_policy_vf | 21.9     |
+| eplenmean     | 54.5     |
+| eprewmean     | 39       |
+| pro_policy_vf | 23.8     |
+| test reward   | 34.1     |
+----------------------------
+********** Iteration 395 ************
+----------------------------
+| adv_policy_vf | 18.8     |
+| eplenmean     | 54.6     |
+| eprewmean     | 39.8     |
+| pro_policy_vf | 18       |
+| test reward   | 35.4     |
+----------------------------
+********** Iteration 396 ************
+----------------------------
+| adv_policy_vf | 8.02     |
+| eplenmean     | 54.4     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 6.37     |
+| test reward   | 34.5     |
+----------------------------
+********** Iteration 397 ************
+----------------------------
+| adv_policy_vf | 3.86     |
+| eplenmean     | 54.4     |
+| eprewmean     | 41.6     |
+| pro_policy_vf | 3.91     |
+| test reward   | 31.3     |
+----------------------------
+********** Iteration 398 ************
+----------------------------
+| adv_policy_vf | 22.9     |
+| eplenmean     | 54.6     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 20       |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 399 ************
+----------------------------
+| adv_policy_vf | 12.7     |
+| eplenmean     | 54.4     |
+| eprewmean     | 39.8     |
+| pro_policy_vf | 11.9     |
+| test reward   | 35.5     |
+----------------------------
+********** Iteration 400 ************
+----------------------------
+| adv_policy_vf | 10.9     |
+| eplenmean     | 54.6     |
+| eprewmean     | 38.1     |
+| pro_policy_vf | 9.6      |
+| test reward   | 35.4     |
+----------------------------
+********** Iteration 401 ************
+----------------------------
+| adv_policy_vf | 5.92     |
+| eplenmean     | 54.4     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 5.1      |
+| test reward   | 31.7     |
+----------------------------
+********** Iteration 402 ************
+----------------------------
+| adv_policy_vf | 10.2     |
+| eplenmean     | 54.5     |
+| eprewmean     | 39.4     |
+| pro_policy_vf | 9.95     |
+| test reward   | 33.8     |
+----------------------------
+********** Iteration 403 ************
+----------------------------
+| adv_policy_vf | 3.7      |
+| eplenmean     | 55       |
+| eprewmean     | 40.2     |
+| pro_policy_vf | 3.87     |
+| test reward   | 31.8     |
+----------------------------
+********** Iteration 404 ************
+----------------------------
+| adv_policy_vf | 4.08     |
+| eplenmean     | 55.9     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 3.99     |
+| test reward   | 33       |
+----------------------------
+********** Iteration 405 ************
+----------------------------
+| adv_policy_vf | 24       |
+| eplenmean     | 55.7     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 21.7     |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 406 ************
+----------------------------
+| adv_policy_vf | 4.35     |
+| eplenmean     | 54.8     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 4.26     |
+| test reward   | 33.1     |
+----------------------------
+********** Iteration 407 ************
+----------------------------
+| adv_policy_vf | 3.98     |
+| eplenmean     | 54.9     |
+| eprewmean     | 41.1     |
+| pro_policy_vf | 3.66     |
+| test reward   | 36       |
+----------------------------
+********** Iteration 408 ************
+----------------------------
+| adv_policy_vf | 3.48     |
+| eplenmean     | 54.2     |
+| eprewmean     | 43.2     |
+| pro_policy_vf | 3.64     |
+| test reward   | 33.5     |
+----------------------------
+********** Iteration 409 ************
+----------------------------
+| adv_policy_vf | 3.22     |
+| eplenmean     | 55       |
+| eprewmean     | 42.3     |
+| pro_policy_vf | 3.34     |
+| test reward   | 33.2     |
+----------------------------
+********** Iteration 410 ************
+----------------------------
+| adv_policy_vf | 4.09     |
+| eplenmean     | 55       |
+| eprewmean     | 42       |
+| pro_policy_vf | 3.86     |
+| test reward   | 34.2     |
+----------------------------
+********** Iteration 411 ************
+----------------------------
+| adv_policy_vf | 3.61     |
+| eplenmean     | 54.9     |
+| eprewmean     | 41.6     |
+| pro_policy_vf | 3.72     |
+| test reward   | 35.1     |
+----------------------------
+********** Iteration 412 ************
+----------------------------
+| adv_policy_vf | 4.51     |
+| eplenmean     | 55.3     |
+| eprewmean     | 41.2     |
+| pro_policy_vf | 4.34     |
+| test reward   | 33.4     |
+----------------------------
+********** Iteration 413 ************
+----------------------------
+| adv_policy_vf | 12.9     |
+| eplenmean     | 54.4     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 10.9     |
+| test reward   | 31.8     |
+----------------------------
+********** Iteration 414 ************
+----------------------------
+| adv_policy_vf | 6.57     |
+| eplenmean     | 53.6     |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 5.97     |
+| test reward   | 34.6     |
+----------------------------
+********** Iteration 415 ************
+----------------------------
+| adv_policy_vf | 29.6     |
+| eplenmean     | 54       |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 28       |
+| test reward   | 35       |
+----------------------------
+********** Iteration 416 ************
+----------------------------
+| adv_policy_vf | 15.6     |
+| eplenmean     | 53.6     |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 17.6     |
+| test reward   | 33.3     |
+----------------------------
+********** Iteration 417 ************
+----------------------------
+| adv_policy_vf | 8.74     |
+| eplenmean     | 54.9     |
+| eprewmean     | 40.2     |
+| pro_policy_vf | 5.99     |
+| test reward   | 34.9     |
+----------------------------
+********** Iteration 418 ************
+----------------------------
+| adv_policy_vf | 29.4     |
+| eplenmean     | 54.8     |
+| eprewmean     | 40.3     |
+| pro_policy_vf | 31.8     |
+| test reward   | 32.3     |
+----------------------------
+********** Iteration 419 ************
+----------------------------
+| adv_policy_vf | 5.15     |
+| eplenmean     | 54.5     |
+| eprewmean     | 40.8     |
+| pro_policy_vf | 4.91     |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 420 ************
+----------------------------
+| adv_policy_vf | 29       |
+| eplenmean     | 54.9     |
+| eprewmean     | 36.3     |
+| pro_policy_vf | 33.3     |
+| test reward   | 32.1     |
+----------------------------
+********** Iteration 421 ************
+----------------------------
+| adv_policy_vf | 74.2     |
+| eplenmean     | 54       |
+| eprewmean     | 32.5     |
+| pro_policy_vf | 79.9     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 422 ************
+----------------------------
+| adv_policy_vf | 52.7     |
+| eplenmean     | 53.1     |
+| eprewmean     | 31.9     |
+| pro_policy_vf | 53.3     |
+| test reward   | 30.5     |
+----------------------------
+********** Iteration 423 ************
+----------------------------
+| adv_policy_vf | 69.1     |
+| eplenmean     | 53.2     |
+| eprewmean     | 31.9     |
+| pro_policy_vf | 74.6     |
+| test reward   | 25.4     |
+----------------------------
+********** Iteration 424 ************
+----------------------------
+| adv_policy_vf | 111      |
+| eplenmean     | 53.7     |
+| eprewmean     | 30.2     |
+| pro_policy_vf | 128      |
+| test reward   | 20.9     |
+----------------------------
+********** Iteration 425 ************
+----------------------------
+| adv_policy_vf | 194      |
+| eplenmean     | 51.8     |
+| eprewmean     | 19.6     |
+| pro_policy_vf | 225      |
+| test reward   | 24       |
+----------------------------
+********** Iteration 426 ************
+----------------------------
+| adv_policy_vf | 130      |
+| eplenmean     | 50.6     |
+| eprewmean     | 9.61     |
+| pro_policy_vf | 167      |
+| test reward   | 25.7     |
+----------------------------
+********** Iteration 427 ************
+----------------------------
+| adv_policy_vf | 174      |
+| eplenmean     | 52.1     |
+| eprewmean     | 14.6     |
+| pro_policy_vf | 185      |
+| test reward   | 12       |
+----------------------------
+********** Iteration 428 ************
+----------------------------
+| adv_policy_vf | 88.8     |
+| eplenmean     | 52.5     |
+| eprewmean     | 20.5     |
+| pro_policy_vf | 88       |
+| test reward   | 11.4     |
+----------------------------
+********** Iteration 429 ************
+----------------------------
+| adv_policy_vf | 93.6     |
+| eplenmean     | 54.2     |
+| eprewmean     | 29.3     |
+| pro_policy_vf | 93.9     |
+| test reward   | 19       |
+----------------------------
+********** Iteration 430 ************
+----------------------------
+| adv_policy_vf | 112      |
+| eplenmean     | 53.6     |
+| eprewmean     | 25.7     |
+| pro_policy_vf | 111      |
+| test reward   | 26.3     |
+----------------------------
+********** Iteration 431 ************
+----------------------------
+| adv_policy_vf | 88.4     |
+| eplenmean     | 52.6     |
+| eprewmean     | 25.9     |
+| pro_policy_vf | 87.7     |
+| test reward   | 24.1     |
+----------------------------
+********** Iteration 432 ************
+----------------------------
+| adv_policy_vf | 58       |
+| eplenmean     | 52.7     |
+| eprewmean     | 27.4     |
+| pro_policy_vf | 64.5     |
+| test reward   | 29.2     |
+----------------------------
+********** Iteration 433 ************
+----------------------------
+| adv_policy_vf | 94.3     |
+| eplenmean     | 52.8     |
+| eprewmean     | 31.9     |
+| pro_policy_vf | 98.5     |
+| test reward   | 27.5     |
+----------------------------
+********** Iteration 434 ************
+----------------------------
+| adv_policy_vf | 11.9     |
+| eplenmean     | 54.8     |
+| eprewmean     | 35.5     |
+| pro_policy_vf | 10.3     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 435 ************
+----------------------------
+| adv_policy_vf | 33.4     |
+| eplenmean     | 55.8     |
+| eprewmean     | 35.2     |
+| pro_policy_vf | 35.4     |
+| test reward   | 30.9     |
+----------------------------
+********** Iteration 436 ************
+----------------------------
+| adv_policy_vf | 7.33     |
+| eplenmean     | 56.6     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 8.43     |
+| test reward   | 35.2     |
+----------------------------
+********** Iteration 437 ************
+----------------------------
+| adv_policy_vf | 44.4     |
+| eplenmean     | 57.2     |
+| eprewmean     | 36.8     |
+| pro_policy_vf | 44.5     |
+| test reward   | 31.1     |
+----------------------------
+********** Iteration 438 ************
+----------------------------
+| adv_policy_vf | 16.5     |
+| eplenmean     | 56       |
+| eprewmean     | 38.2     |
+| pro_policy_vf | 19.2     |
+| test reward   | 25.9     |
+----------------------------
+********** Iteration 439 ************
+----------------------------
+| adv_policy_vf | 8.92     |
+| eplenmean     | 55.6     |
+| eprewmean     | 40.2     |
+| pro_policy_vf | 8.14     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 440 ************
+----------------------------
+| adv_policy_vf | 27       |
+| eplenmean     | 55.4     |
+| eprewmean     | 39.2     |
+| pro_policy_vf | 30.9     |
+| test reward   | 23.6     |
+----------------------------
+********** Iteration 441 ************
+----------------------------
+| adv_policy_vf | 26.4     |
+| eplenmean     | 56.7     |
+| eprewmean     | 38.1     |
+| pro_policy_vf | 20.7     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 442 ************
+----------------------------
+| adv_policy_vf | 43.1     |
+| eplenmean     | 56.7     |
+| eprewmean     | 35.2     |
+| pro_policy_vf | 45.4     |
+| test reward   | 32.2     |
+----------------------------
+********** Iteration 443 ************
+----------------------------
+| adv_policy_vf | 30.3     |
+| eplenmean     | 57.9     |
+| eprewmean     | 34.2     |
+| pro_policy_vf | 32.1     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 444 ************
+----------------------------
+| adv_policy_vf | 5.42     |
+| eplenmean     | 58.4     |
+| eprewmean     | 35.5     |
+| pro_policy_vf | 5.92     |
+| test reward   | 22.8     |
+----------------------------
+********** Iteration 445 ************
+----------------------------
+| adv_policy_vf | 31.7     |
+| eplenmean     | 58.2     |
+| eprewmean     | 35.8     |
+| pro_policy_vf | 28.8     |
+| test reward   | 23       |
+----------------------------
+********** Iteration 446 ************
+----------------------------
+| adv_policy_vf | 27       |
+| eplenmean     | 56.1     |
+| eprewmean     | 37.3     |
+| pro_policy_vf | 28.8     |
+| test reward   | 29.7     |
+----------------------------
+********** Iteration 447 ************
+----------------------------
+| adv_policy_vf | 16.5     |
+| eplenmean     | 55.7     |
+| eprewmean     | 37.5     |
+| pro_policy_vf | 14.2     |
+| test reward   | 27.8     |
+----------------------------
+********** Iteration 448 ************
+----------------------------
+| adv_policy_vf | 15.5     |
+| eplenmean     | 57.6     |
+| eprewmean     | 37.1     |
+| pro_policy_vf | 17.1     |
+| test reward   | 34.4     |
+----------------------------
+********** Iteration 449 ************
+----------------------------
+| adv_policy_vf | 5.49     |
+| eplenmean     | 57.7     |
+| eprewmean     | 38.7     |
+| pro_policy_vf | 5.21     |
+| test reward   | 28.6     |
+----------------------------
+********** Iteration 450 ************
+----------------------------
+| adv_policy_vf | 20.9     |
+| eplenmean     | 58       |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 26.2     |
+| test reward   | 31.6     |
+----------------------------
+********** Iteration 451 ************
+----------------------------
+| adv_policy_vf | 5.65     |
+| eplenmean     | 56.5     |
+| eprewmean     | 39.6     |
+| pro_policy_vf | 5.93     |
+| test reward   | 35.7     |
+----------------------------
+********** Iteration 452 ************
+----------------------------
+| adv_policy_vf | 4.62     |
+| eplenmean     | 56.6     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 5.06     |
+| test reward   | 32.9     |
+----------------------------
+********** Iteration 453 ************
+----------------------------
+| adv_policy_vf | 5.4      |
+| eplenmean     | 58.1     |
+| eprewmean     | 40       |
+| pro_policy_vf | 5.41     |
+| test reward   | 28.4     |
+----------------------------
+********** Iteration 454 ************
+----------------------------
+| adv_policy_vf | 20.5     |
+| eplenmean     | 58.5     |
+| eprewmean     | 38.2     |
+| pro_policy_vf | 24.3     |
+| test reward   | 31.6     |
+----------------------------
+********** Iteration 455 ************
+----------------------------
+| adv_policy_vf | 4.65     |
+| eplenmean     | 58.9     |
+| eprewmean     | 38.1     |
+| pro_policy_vf | 4.98     |
+| test reward   | 35.3     |
+----------------------------
+********** Iteration 456 ************
+----------------------------
+| adv_policy_vf | 9.36     |
+| eplenmean     | 57.7     |
+| eprewmean     | 37.8     |
+| pro_policy_vf | 8.04     |
+| test reward   | 26.3     |
+----------------------------
+********** Iteration 457 ************
+----------------------------
+| adv_policy_vf | 4.86     |
+| eplenmean     | 56.6     |
+| eprewmean     | 40.1     |
+| pro_policy_vf | 4.62     |
+| test reward   | 32       |
+----------------------------
+********** Iteration 458 ************
+----------------------------
+| adv_policy_vf | 4.14     |
+| eplenmean     | 55.6     |
+| eprewmean     | 40.7     |
+| pro_policy_vf | 4.29     |
+| test reward   | 32.3     |
+----------------------------
+********** Iteration 459 ************
+----------------------------
+| adv_policy_vf | 4.05     |
+| eplenmean     | 56.9     |
+| eprewmean     | 40.6     |
+| pro_policy_vf | 4.34     |
+| test reward   | 31.7     |
+----------------------------
+********** Iteration 460 ************
+----------------------------
+| adv_policy_vf | 4.41     |
+| eplenmean     | 57.5     |
+| eprewmean     | 40.4     |
+| pro_policy_vf | 4.73     |
+| test reward   | 28.8     |
+----------------------------
+********** Iteration 461 ************
+----------------------------
+| adv_policy_vf | 16       |
+| eplenmean     | 58.5     |
+| eprewmean     | 38.4     |
+| pro_policy_vf | 13       |
+| test reward   | 31.9     |
+----------------------------
+********** Iteration 462 ************
+----------------------------
+| adv_policy_vf | 4.73     |
+| eplenmean     | 58.5     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 5.16     |
+| test reward   | 30.4     |
+----------------------------
+********** Iteration 463 ************
+----------------------------
+| adv_policy_vf | 4.26     |
+| eplenmean     | 58.3     |
+| eprewmean     | 38.7     |
+| pro_policy_vf | 4.59     |
+| test reward   | 32.8     |
+----------------------------
+********** Iteration 464 ************
+----------------------------
+| adv_policy_vf | 20.1     |
+| eplenmean     | 57.3     |
+| eprewmean     | 40       |
+| pro_policy_vf | 21.5     |
+| test reward   | 32.4     |
+----------------------------
+********** Iteration 465 ************
+----------------------------
+| adv_policy_vf | 4.48     |
+| eplenmean     | 57.4     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 4.7      |
+| test reward   | 33.7     |
+----------------------------
+********** Iteration 466 ************
+----------------------------
+| adv_policy_vf | 4.32     |
+| eplenmean     | 58.3     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 4.57     |
+| test reward   | 32.3     |
+----------------------------
+********** Iteration 467 ************
+----------------------------
+| adv_policy_vf | 5.22     |
+| eplenmean     | 58.8     |
+| eprewmean     | 39.1     |
+| pro_policy_vf | 5.41     |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 468 ************
+----------------------------
+| adv_policy_vf | 16.3     |
+| eplenmean     | 57.8     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 15.4     |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 469 ************
+----------------------------
+| adv_policy_vf | 5.71     |
+| eplenmean     | 57.2     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 4.87     |
+| test reward   | 29.9     |
+----------------------------
+********** Iteration 470 ************
+----------------------------
+| adv_policy_vf | 4.79     |
+| eplenmean     | 57       |
+| eprewmean     | 39.3     |
+| pro_policy_vf | 4.87     |
+| test reward   | 33.5     |
+----------------------------
+********** Iteration 471 ************
+----------------------------
+| adv_policy_vf | 22       |
+| eplenmean     | 57.2     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 21.6     |
+| test reward   | 26       |
+----------------------------
+********** Iteration 472 ************
+----------------------------
+| adv_policy_vf | 3.39     |
+| eplenmean     | 57.8     |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 3.72     |
+| test reward   | 31.7     |
+----------------------------
+********** Iteration 473 ************
+----------------------------
+| adv_policy_vf | 15.5     |
+| eplenmean     | 58.5     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 14.5     |
+| test reward   | 27.7     |
+----------------------------
+********** Iteration 474 ************
+----------------------------
+| adv_policy_vf | 17.6     |
+| eplenmean     | 59.5     |
+| eprewmean     | 37.1     |
+| pro_policy_vf | 18       |
+| test reward   | 28       |
+----------------------------
+********** Iteration 475 ************
+----------------------------
+| adv_policy_vf | 5.33     |
+| eplenmean     | 59.5     |
+| eprewmean     | 37.1     |
+| pro_policy_vf | 5.15     |
+| test reward   | 33.6     |
+----------------------------
+********** Iteration 476 ************
+----------------------------
+| adv_policy_vf | 23.8     |
+| eplenmean     | 58.6     |
+| eprewmean     | 35.9     |
+| pro_policy_vf | 22.1     |
+| test reward   | 28.5     |
+----------------------------
+********** Iteration 477 ************
+----------------------------
+| adv_policy_vf | 7.01     |
+| eplenmean     | 57       |
+| eprewmean     | 37.6     |
+| pro_policy_vf | 6.34     |
+| test reward   | 29.2     |
+----------------------------
+********** Iteration 478 ************
+----------------------------
+| adv_policy_vf | 4.61     |
+| eplenmean     | 56.1     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 5.05     |
+| test reward   | 31.5     |
+----------------------------
+********** Iteration 479 ************
+----------------------------
+| adv_policy_vf | 5.84     |
+| eplenmean     | 57.4     |
+| eprewmean     | 38.7     |
+| pro_policy_vf | 5.91     |
+| test reward   | 31.9     |
+----------------------------
+********** Iteration 480 ************
+----------------------------
+| adv_policy_vf | 14.5     |
+| eplenmean     | 56.8     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 14.4     |
+| test reward   | 32.1     |
+----------------------------
+********** Iteration 481 ************
+----------------------------
+| adv_policy_vf | 7.86     |
+| eplenmean     | 56.8     |
+| eprewmean     | 38.3     |
+| pro_policy_vf | 7.15     |
+| test reward   | 33.9     |
+----------------------------
+********** Iteration 482 ************
+----------------------------
+| adv_policy_vf | 4.48     |
+| eplenmean     | 56.8     |
+| eprewmean     | 38.8     |
+| pro_policy_vf | 4.75     |
+| test reward   | 32       |
+----------------------------
+********** Iteration 483 ************
+----------------------------
+| adv_policy_vf | 3.71     |
+| eplenmean     | 58.5     |
+| eprewmean     | 38.6     |
+| pro_policy_vf | 3.8      |
+| test reward   | 31.6     |
+----------------------------
+********** Iteration 484 ************
+----------------------------
+| adv_policy_vf | 4.82     |
+| eplenmean     | 58.3     |
+| eprewmean     | 39.4     |
+| pro_policy_vf | 5.13     |
+| test reward   | 30       |
+----------------------------
+********** Iteration 485 ************
+----------------------------
+| adv_policy_vf | 32.3     |
+| eplenmean     | 58.2     |
+| eprewmean     | 38.5     |
+| pro_policy_vf | 37.3     |
+| test reward   | 28.6     |
+----------------------------
+********** Iteration 486 ************
+----------------------------
+| adv_policy_vf | 8.24     |
+| eplenmean     | 56       |
+| eprewmean     | 39.3     |
+| pro_policy_vf | 7.23     |
+| test reward   | 33.4     |
+----------------------------
+********** Iteration 487 ************
+----------------------------
+| adv_policy_vf | 18.6     |
+| eplenmean     | 56.3     |
+| eprewmean     | 38       |
+| pro_policy_vf | 16.3     |
+| test reward   | 32       |
+----------------------------
+********** Iteration 488 ************
+----------------------------
+| adv_policy_vf | 3.84     |
+| eplenmean     | 57.5     |
+| eprewmean     | 39.5     |
+| pro_policy_vf | 4.04     |
+| test reward   | 31       |
+----------------------------
+********** Iteration 489 ************
+----------------------------
+| adv_policy_vf | 4.28     |
+| eplenmean     | 59.3     |
+| eprewmean     | 37.6     |
+| pro_policy_vf | 4.33     |
+| test reward   | 32       |
+----------------------------
+********** Iteration 490 ************
+----------------------------
+| adv_policy_vf | 4.3      |
+| eplenmean     | 58.7     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 4.45     |
+| test reward   | 29.3     |
+----------------------------
+********** Iteration 491 ************
+----------------------------
+| adv_policy_vf | 3.99     |
+| eplenmean     | 58.6     |
+| eprewmean     | 39.7     |
+| pro_policy_vf | 4.12     |
+| test reward   | 28.8     |
+----------------------------
+********** Iteration 492 ************
+----------------------------
+| adv_policy_vf | 4        |
+| eplenmean     | 58.3     |
+| eprewmean     | 39.9     |
+| pro_policy_vf | 4.31     |
+| test reward   | 34.7     |
+----------------------------
+********** Iteration 493 ************
+----------------------------
+| adv_policy_vf | 4.1      |
+| eplenmean     | 59.1     |
+| eprewmean     | 38.9     |
+| pro_policy_vf | 4.42     |
+| test reward   | 27.5     |
+----------------------------
+********** Iteration 494 ************
+----------------------------
+| adv_policy_vf | 4.29     |
+| eplenmean     | 57.2     |
+| eprewmean     | 40.9     |
+| pro_policy_vf | 4.54     |
+| test reward   | 30.6     |
+----------------------------
+********** Iteration 495 ************
+----------------------------
+| adv_policy_vf | 42.3     |
+| eplenmean     | 57       |
+| eprewmean     | 37.2     |
+| pro_policy_vf | 45.4     |
+| test reward   | 33.2     |
+----------------------------
+********** Iteration 496 ************
+----------------------------
+| adv_policy_vf | 7.3      |
+| eplenmean     | 56.5     |
+| eprewmean     | 36.5     |
+| pro_policy_vf | 7.5      |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 497 ************
+----------------------------
+| adv_policy_vf | 8.26     |
+| eplenmean     | 56.8     |
+| eprewmean     | 36.2     |
+| pro_policy_vf | 8.6      |
+| test reward   | 30.8     |
+----------------------------
+********** Iteration 498 ************
+----------------------------
+| adv_policy_vf | 4.79     |
+| eplenmean     | 58.2     |
+| eprewmean     | 39       |
+| pro_policy_vf | 4.9      |
+| test reward   | 32.8     |
+----------------------------
+********** Iteration 499 ************
+----------------------------
+| adv_policy_vf | 31.7     |
+| eplenmean     | 59.8     |
+| eprewmean     | 37.7     |
+| pro_policy_vf | 32.3     |
+| test reward   | 29.4     |
+----------------------------
+********** Iteration 500 ************
+----------------------------
+| adv_policy_vf | 24.3     |
+| eplenmean     | 59.5     |
+| eprewmean     | 36.9     |
+| pro_policy_vf | 24.5     |
+| test reward   | 32.7     |
+----------------------------
+Running trained model
